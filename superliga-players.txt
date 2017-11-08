@@ -1,0 +1,1521 @@
+﻿//
+// Matches
+//
+// Generated: 2017-11-08 20:37:51Z
+//
+10001;Mattias Jonson;1974-01-16 00:00:00Z;Sverige
+10002;Morten Wieghorst;1971-02-25 00:00:00Z;Danmark
+10003;Nicolai Winther-Stokholm;1976-04-01 00:00:00Z;Danmark
+10004;Tommy Olsen;1973-03-08 00:00:00Z;Danmark
+10005;Heine Fernandez;1966-07-14 00:00:00Z;Danmark
+10007;Morten Poulsen;1971-03-09 00:00:00Z;Danmark
+10009;Michael Silberbauer;1981-07-07 00:00:00Z;Danmark
+10010;Michael Hansen;1971-09-22 00:00:00Z;Danmark
+10011;Klaus Kærgård;1976-10-21 00:00:00Z;Danmark
+10013;Michael Gravgaard;1978-04-03 00:00:00Z;Danmark
+10014;Todi Jónsson;1972-02-02 00:00:00Z;Færøerne
+10015;Michael Hemmingsen;1967-10-02 00:00:00Z;Danmark
+10016;Mwape Miti;1973-05-24 00:00:00Z;Zambia
+10019;Anders Møller Christensen;1977-07-26 00:00:00Z;Danmark
+10020;Tommy Bechmann;1981-12-22 00:00:00Z;Danmark
+10023;Thomas Frandsen;1976-03-25 00:00:00Z;Danmark
+10024;Morten Skoubo;1980-06-30 00:00:00Z;Danmark
+10025;Razak Pimpong;1982-12-30 00:00:00Z;Ghana
+10026;Ulrik Bærholm Pedersen;1974-01-11 00:00:00Z;Danmark
+10027;Kenneth Møller Pedersen;1973-04-18 00:00:00Z;Danmark
+10028;Ulrik Johansen;1980-03-12 00:00:00Z;Danmark
+10029;Iddi Leif Deleuran Alkhag;1978-08-17 00:00:00Z;Danmark
+10030;Thomas Christoffer Røll Larsen;1977-03-12 00:00:00Z;Danmark
+10031;Bo Svensson;1979-08-04 00:00:00Z;Danmark
+10032;Peter Møller;1972-03-23 00:00:00Z;Danmark
+10033;Sibusiso Wiseman Zuma;1975-06-23 00:00:00Z;Sydafrika
+10034;Stefan Bidstrup;1975-02-24 00:00:00Z;Danmark
+10035;Bård Borgersen;1972-05-20 00:00:00Z;Norge
+10037;Søren Berg Andersen;1976-05-15 00:00:00Z;Danmark
+10038;Jesper Christiansen;1980-06-18 00:00:00Z;Danmark
+10040;Jan Dalgas Kristiansen;1981-08-04 00:00:00Z;Danmark
+10042;Jess Thorup;1970-02-21 00:00:00Z;Danmark
+10043;Jakob Bendix Uhd Poulsen;1983-07-07 00:00:00Z;Danmark
+10044;Anders Clausen;1978-04-19 00:00:00Z;Danmark
+10045;David Rasmussen;1976-12-01 00:00:00Z;Danmark
+10046;Søren Frederiksen;1972-01-27 00:00:00Z;Danmark
+10049;Hans Henrik Andreasen;1979-01-10 00:00:00Z;Danmark
+10050;Thomas Rasmussen;1977-04-16 00:00:00Z;Danmark
+10053;Leon Hougaard Andreasen;1983-04-23 00:00:00Z;Danmark
+10054;Morten Nicolas Rasmussen;0001-01-01 00:00:00Z;31.01.1985                                                                         (30 &aring;r)
+10055;Mads Jørgensen;1979-02-10 00:00:00Z;Danmark
+10056;Ruben Bagger;1972-01-16 00:00:00Z;Danmark
+10057;Thomas Lindrup;1976-05-21 00:00:00Z;Danmark
+10059;Christopher Fangel Poulsen;1981-09-11 00:00:00Z;Danmark
+10060;Kenneth Fabricius;1981-11-03 00:00:00Z;Danmark
+10061;Jacob Sørensen;0001-01-01 00:00:00Z;12.02.1983                                                                         (32 &aring;r)
+10062;Søren Skriver;1973-06-10 00:00:00Z;Danmark
+10063;Christian Lønstrup;1971-04-04 00:00:00Z;Danmark
+10065;Morten Bisgaard;1974-06-25 00:00:00Z;Danmark
+10066;Sammy Youssouf;1976-09-07 00:00:00Z;Danmark
+10067;Tom Christensen;1982-01-31 00:00:00Z;Danmark
+10069;Kim Olsen;1979-02-11 00:00:00Z;Danmark
+10070;Martin Borre;1979-03-27 00:00:00Z;Danmark
+10071;Thomas Andie;1972-04-17 00:00:00Z;Danmark
+10073;Peter Planch Madsen;1978-04-26 00:00:00Z;Danmark
+10074;Rasmus Marvits;1978-06-14 00:00:00Z;Danmark
+10075;Frank Rosendahl Kristensen Michalski;1977-03-10 00:00:00Z;Danmark
+10077;Jakob Glerup Nielsen;1975-04-20 00:00:00Z;Danmark
+10078;Allan Gaarde;1975-01-25 00:00:00Z;Danmark
+10080;Thomas Rønning Augustinussen;1981-03-20 00:00:00Z;Danmark
+10082;Abdul Sule;1975-01-20 00:00:00Z;Nigeria
+10085;Thomas Rathe;1979-06-09 00:00:00Z;Danmark
+10087;Fernando Derveld;1976-10-22 00:00:00Z;Holland
+10089;Carsten Fredgaard;1976-05-20 00:00:00Z;Danmark
+10090;Brian Steen Nielsen;1968-12-28 00:00:00Z;Danmark
+10092;Mohamed Zidan;1981-12-11 00:00:00Z;Egypten
+10094;John Dyring;1983-07-14 00:00:00Z;Danmark
+10095;Søren Frimodt Nielsen;1982-08-14 00:00:00Z;Danmark
+10097;Peter Foldgast;1979-12-03 00:00:00Z;Danmark
+10098;Dennis Sørensen;1981-05-24 00:00:00Z;Danmark
+10099;Alex Nørlund Andersen;1975-01-28 00:00:00Z;Danmark
+10100;Jerry Ruben Lucena;1980-08-11 00:00:00Z;Danmark
+10103;Allan Nielsen;1971-03-13 00:00:00Z;Danmark
+10104;Peter Benjaminsen;1982-12-03 00:00:00Z;Danmark
+10105;Henrik Eggerts;1976-11-14 00:00:00Z;Danmark
+10107;Jesper Thygesen;1969-09-20 00:00:00Z;Danmark
+10108;Morten Petersen;1978-05-27 00:00:00Z;Danmark
+10109;Per Lundgren Nielsen;1973-10-15 00:00:00Z;Danmark
+10111;Thomas Tengstedt;1975-05-15 00:00:00Z;Danmark
+10113;Morten Frimodt Nielsen;1982-08-14 00:00:00Z;Danmark
+10114;Jan Sønksen;1973-04-10 00:00:00Z;Danmark
+10115;Thomas Kahlenberg;1983-03-20 00:00:00Z;Danmark
+10116;Lars Christian Nielsen;1979-06-17 00:00:00Z;Danmark
+10119;Thomas Andreasen;1973-03-04 00:00:00Z;Danmark
+10120;John Sandberg;1977-01-04 00:00:00Z;Danmark
+10123;Jonas Kamper;1983-05-03 00:00:00Z;Danmark
+10124;Aurelius Skarbalius;1973-05-12 00:00:00Z;Litauen
+10126;Henrik Madsen;1983-02-25 00:00:00Z;Danmark
+10127;Christian Keller;1980-08-17 00:00:00Z;Danmark
+10128;Asbjørn Sennels;1979-01-17 00:00:00Z;Danmark
+10129;Jacob Gregersen;0001-01-01 00:00:00Z;12.10.1972                                                                         (42 &aring;r)
+10130;Carsten Hemmingsen;1970-12-18 00:00:00Z;Danmark
+10132;Jesper Mikkelsen;1980-07-26 00:00:00Z;Danmark
+10133;Kim Daugaard Hansen;1974-03-29 00:00:00Z;Danmark
+10139;Michael Nonbo;1973-11-16 00:00:00Z;Danmark
+10140;Peter Skov-Jensen;1971-06-09 00:00:00Z;Danmark
+10142;Tomasz Mazurkiewicz;1981-11-23 00:00:00Z;Polen
+10145;Kaspar Rynkeby;1982-03-19 00:00:00Z;Danmark
+10146;Brian Priske Pedersen;1977-05-14 00:00:00Z;Danmark
+10147;Thomas Bælum;1978-06-05 00:00:00Z;Danmark
+10148;Kenneth From;1973-03-09 00:00:00Z;Danmark
+10152;Borivoje Zivkovic;1974-09-04 00:00:00Z;Danmark
+10154;Martin Sejr Jensen;1973-07-10 00:00:00Z;Danmark
+10155;Søren Andersen;1970-01-31 00:00:00Z;Danmark
+10156;Karim Zaza;1975-01-09 00:00:00Z;Marokko
+10157;Ralf Pedersen;1973-09-20 00:00:00Z;Danmark
+10159;Ulrik Lindkvist;1981-03-05 00:00:00Z;Danmark
+10162;Thomas Thomasberg;1974-10-15 00:00:00Z;Danmark
+10163;Urmas Rooba;1978-07-08 00:00:00Z;Estland
+10164;Martin Meldgaard Pedersen;1983-10-09 00:00:00Z;Danmark
+10165;Stefan Schmidt;1975-11-07 00:00:00Z;Danmark
+10166;Mads Junker;1981-04-21 00:00:00Z;Danmark
+10167;Allan Kierstein Jepsen;1977-07-04 00:00:00Z;Danmark
+10168;Rasmus Daugaard;1976-09-05 00:00:00Z;Danmark
+10169;Thomas Poulsen;1972-07-02 00:00:00Z;Danmark
+10170;Christian Duus Pedersen;1974-05-21 00:00:00Z;Danmark
+10171;Søren Pedersen;1978-11-02 00:00:00Z;Danmark
+10172;Steffen Højer;1973-05-22 00:00:00Z;Danmark
+10173;Ulrich Vinzents;1976-11-04 00:00:00Z;Danmark
+10174;Diego Tur;1971-10-03 00:00:00Z;Danmark
+10175;Henrik Schnedler;1977-10-20 00:00:00Z;Danmark
+10176;Martin Jensen;1978-07-27 00:00:00Z;Danmark
+10177;Dan Anton Johansen;1979-08-13 00:00:00Z;Danmark
+10178;Martin Retov;1980-05-05 00:00:00Z;Danmark
+10181;Esben Mathias Rejnholdt Hansen;1981-08-10 00:00:00Z;Danmark
+10184;Martin Albrechtsen;1980-03-31 00:00:00Z;Danmark
+10185;Jacob Rasmussen;1974-08-03 00:00:00Z;Danmark
+10186;Dennis Mengoy Cagara;1985-02-19 00:00:00Z;Danmark
+10187;Mads Rieper;1973-07-20 00:00:00Z;Danmark
+10188;Rasmus Østergaard Würtz;1983-09-18 00:00:00Z;Danmark
+10189;Hjalte Bo Nørregaard;1981-04-08 00:00:00Z;Danmark
+10190;Andrew Tembo;1971-08-19 00:00:00Z;Zambia
+10192;Jesper Sørensen;1973-06-10 00:00:00Z;Danmark
+10193;Muhammed Akinci;1983-04-20 00:00:00Z;Danmark
+10195;Henrik Ipsen;1973-06-30 00:00:00Z;Danmark
+10196;Ole Tobiasen;1975-07-08 00:00:00Z;Danmark
+10197;Anders Veller;1981-01-04 00:00:00Z;Danmark
+10198;Peter Graulund;1976-09-20 00:00:00Z;Danmark
+10200;Klebér Saarenpää;1975-12-14 00:00:00Z;Sverige
+10202;Steffen Bjørnebo Rasmussen;1982-09-30 00:00:00Z;Danmark
+10205;Martin Heinze;1983-02-28 00:00:00Z;Danmark
+10206;Lennart Lynge Larsen;1974-10-15 00:00:00Z;Danmark
+10207;Allan Arenfeldt Olesen;1982-05-20 00:00:00Z;Danmark
+10208;Thomas Olsen;1979-06-13 00:00:00Z;Danmark
+10209;Peter Christiansen;1975-01-30 00:00:00Z;Danmark
+10210;Jesper Andersen;1979-05-31 00:00:00Z;Danmark
+10211;Jesper Håkansson;1981-08-18 00:00:00Z;Danmark
+10212;Christian Magleby;1977-06-08 00:00:00Z;Danmark
+10213;Anders Rasmussen;1976-06-01 00:00:00Z;Danmark
+10215;Kim Christensen;1980-05-08 00:00:00Z;Danmark
+10218;Peter Tranberg;1978-07-28 00:00:00Z;Danmark
+10221;Anders Alding;1983-01-15 00:00:00Z;Danmark
+10223;Imants Bleidelis;1975-08-16 00:00:00Z;Letland
+10224;Christian Lundberg;1970-08-24 00:00:00Z;Danmark
+10226;Mads Beierholm;1984-11-15 00:00:00Z;Danmark
+10227;Steven Lustü;1971-04-13 00:00:00Z;Danmark
+10228;Tobias Grahn;1980-03-05 00:00:00Z;Sverige
+10229;Peter Gravesen;1979-02-11 00:00:00Z;Danmark
+10231;Nicolai Jørgensen;1980-01-15 00:00:00Z;Danmark
+10232;Thomas Thorninger;1972-10-20 00:00:00Z;Danmark
+10236;Niclas Christian Monberg Jensen;1974-08-17 00:00:00Z;Danmark
+10239;Nocko Jokovic;1973-07-03 00:00:00Z;Danmark
+10241;Mogens Laursen;1980-08-02 00:00:00Z;Danmark
+10248;Kasper Winde Risgård;1983-01-04 00:00:00Z;Danmark
+10249;Anders Høyen Egholm;1983-05-15 00:00:00Z;Danmark
+10251;Francis Dickoh;1982-12-13 00:00:00Z;Ghana
+10253;Allan Olesen;1974-01-25 00:00:00Z;Danmark
+10255;Morten Jakob Avnskjold;1979-08-26 00:00:00Z;Danmark
+10256;Allan Nielsen;1976-06-26 00:00:00Z;Danmark
+10258;Steen Nedergaard;1970-02-25 00:00:00Z;Danmark
+10260;Nicklas Carlsson;1979-11-13 00:00:00Z;Sverige
+10261;Søren Krogh;1977-04-19 00:00:00Z;Danmark
+10267;Jakob Bresemann;1976-10-22 00:00:00Z;Danmark
+10269;Søren Larsen;1981-09-06 00:00:00Z;Danmark
+10270;Shane Cansdell-Sherriff;1982-11-10 00:00:00Z;Australien
+10271;Karsten Johansen;1981-04-11 00:00:00Z;Danmark
+10272;Bosun Ayeni;1978-11-08 00:00:00Z;Nigeria
+10273;Kasper Kure;1982-07-20 00:00:00Z;Danmark
+10274;Simon Azoulay Pedersen;1982-12-14 00:00:00Z;Danmark
+10277;Christian Traoré;1982-04-18 00:00:00Z;Danmark
+10278;Trond Andersen;1975-01-06 00:00:00Z;Norge
+10279;Kofi Dakinah;1980-02-01 00:00:00Z;Danmark
+10280;Tommy Løvenkrands;1974-05-30 00:00:00Z;Danmark
+10281;Kim Kristensen;1975-01-10 00:00:00Z;Danmark
+10282;Anders Jørgensen;1977-06-11 00:00:00Z;Danmark
+10285;Joshua Gowling;1983-11-29 00:00:00Z;England
+10286;David Nielsen;1976-12-01 00:00:00Z;Danmark
+10287;Niki Dige Zimling;1985-04-19 00:00:00Z;Danmark
+10288;Nicolai Melchiorsen;1984-03-09 00:00:00Z;Danmark
+10290;Emmanuel Ake Richard Muttendango;1980-06-11 00:00:00Z;Kenya
+10294;Thomas Guldborg Christensen;1984-01-20 00:00:00Z;Danmark
+10296;Poul Hübertz Knudsen;1976-09-21 00:00:00Z;Danmark
+10298;Andreas Jakobsson;1972-10-08 00:00:00Z;Sverige
+10299;Lasse Kryger;1982-11-03 00:00:00Z;Danmark
+10300;Álvaro Santos;1980-01-30 00:00:00Z;Brasilien
+10301;Anders Jochumsen;1981-01-28 00:00:00Z;Danmark
+10302;Anders Kure Vidkjær;1985-09-12 00:00:00Z;Danmark
+10303;Stephan Maigaard Andersen;1981-11-26 00:00:00Z;Danmark
+10305;Denni Conteh;1975-08-14 00:00:00Z;Danmark
+10307;Niels Lodberg;1980-10-14 00:00:00Z;Danmark
+10308;Magnus Kihlstedt;1972-02-29 00:00:00Z;Sverige
+10311;Anders Feldstedt;1978-09-03 00:00:00Z;Danmark
+10312;Simon Bræmer;1984-03-19 00:00:00Z;Danmark
+10313;Claus Madsen;1975-03-11 00:00:00Z;Danmark
+10314;Henrik Hallenberg Hansen;1979-07-28 00:00:00Z;Danmark
+10316;Jimmy Nielsen;1977-08-06 00:00:00Z;Danmark
+10317;Jacob Krüger;1975-05-23 00:00:00Z;Danmark
+10323;Rune Pedersen;1979-10-09 00:00:00Z;Danmark
+10324;Navid Fløe Dayyani;1987-02-17 00:00:00Z;Danmark
+10327;Jeffrey Aubynn;1977-05-12 00:00:00Z;Sverige
+10328;Thomas Hansen;1983-01-18 00:00:00Z;Danmark
+10329;Casper Ankergren;1979-11-09 00:00:00Z;Danmark
+10330;Kasper Wellemberg Lorentzen;1985-11-19 00:00:00Z;Danmark
+10335;Mikkel Thygesen;1984-10-22 00:00:00Z;Danmark
+10341;Lars Winde;1975-12-03 00:00:00Z;Danmark
+10342;Nicolai Jacobsen Høgh;1983-11-09 00:00:00Z;Danmark
+10343;Sebastian Steve Qvacoe Cann-Svärd;1983-01-15 00:00:00Z;Danmark
+10344;Balász Rabóczki;1978-01-09 00:00:00Z;Ungarn
+10345;Martin Bergvold;1984-02-20 00:00:00Z;Danmark
+10346;Jan Elsgaard Frederiksen;1982-06-20 00:00:00Z;Danmark
+10348;Kristian Bach Bak;1982-10-20 00:00:00Z;Danmark
+10351;Kris Stadsgaard;1985-08-01 00:00:00Z;Danmark
+10352;Bashkim Ziberi;1984-08-17 00:00:00Z;Danmark
+10353;Morten Cramer;1967-11-07 00:00:00Z;Danmark
+10357;Michael Christensen;1983-02-06 00:00:00Z;Danmark
+10359;Arkadiusz Onyszko;1974-01-12 00:00:00Z;Polen
+10362;Jan Hoffmann;1971-05-04 00:00:00Z;Danmark
+10365;Martin Ulander;1976-02-23 00:00:00Z;Sverige
+10366;Stig Tøfting;1969-08-14 00:00:00Z;Danmark
+10367;Helgi Sigurdsson;1974-09-14 00:00:00Z;Island
+10370;Johan Hindsgaul Absalonsen;1985-09-16 00:00:00Z;Danmark
+10371;Fredrik Berglund;1979-03-21 00:00:00Z;Sverige
+10372;Frank Hansen;1983-02-23 00:00:00Z;Danmark
+10373;Lars Jacobsen;1979-09-20 00:00:00Z;Danmark
+10374;Peter Hansen;1982-05-24 00:00:00Z;Danmark
+10375;Casper Andersen;1982-08-04 00:00:00Z;Danmark
+10376;Karsten Jensen;1976-12-30 00:00:00Z;Danmark
+10377;Chris Sørensen;1977-07-27 00:00:00Z;Danmark
+10378;Jesper Ringsborg Christiansen;1978-04-24 00:00:00Z;Danmark
+10379;Mehdi Radouane Guerrouad;1981-09-29 00:00:00Z;Algeriet
+10380;Mikael Rosén;1974-08-15 00:00:00Z;Sverige
+10381;Martin Ericsson;1980-09-04 00:00:00Z;Sverige
+10382;Ulrik Balling;1975-06-11 00:00:00Z;Danmark
+10386;Henrik Rasmussen;1968-06-13 00:00:00Z;Danmark
+10404;Søren Hedegaard Pallesen;1977-10-07 00:00:00Z;Danmark
+10405;Sune Heilbo;1979-01-23 00:00:00Z;Danmark
+10406;Henrik Pedersen;0001-01-01 00:00:00Z;10.06.1975                                                                         (39 &aring;r)
+10417;Jesper Jørgensen;1984-05-09 00:00:00Z;Danmark
+10419;Morten Friis Jensen;1985-04-06 00:00:00Z;Danmark
+10421;Elrio van Heerden;1983-07-11 00:00:00Z;Sydafrika
+10422;Jesper Bech;1982-05-25 00:00:00Z;Danmark
+10423;Jesper Hansen;1985-03-31 00:00:00Z;Danmark
+10428;Søren Tougaard Jensen;0001-01-01 00:00:00Z;01.03.1984                                                                         (31 &aring;r)
+10429;Thomas Kortegaard;1984-07-02 00:00:00Z;Danmark
+10441;Nicolai Wael;1972-05-10 00:00:00Z;Danmark
+10442;Thomas Rytter;1974-01-06 00:00:00Z;Danmark
+10456;Peter Sand;1972-07-19 00:00:00Z;Danmark
+10457;Ståle Solbakken;1968-02-27 00:00:00Z;Norge
+10461;Oumar Barro;1974-06-03 00:00:00Z;Burkina Faso
+10465;Bo Henriksen;1975-02-07 00:00:00Z;Danmark
+10472;Peter Degn;1977-04-06 00:00:00Z;Danmark
+10473;Jacob Stolberg;1981-08-07 00:00:00Z;Danmark
+10477;Thomas Christiansen Tarín;1973-03-11 00:00:00Z;Spanien
+10482;Henrik Toft;1981-04-15 00:00:00Z;Danmark
+10489;Kim Albrekt Madsen;1978-02-13 00:00:00Z;Danmark
+10494;Michael Nielsen;0001-01-01 00:00:00Z;11.02.1965                                                                         (51 &aring;r)
+10501;Hans Eklund;1969-04-16 00:00:00Z;Sverige
+10507;Dan Sørensen;1966-07-09 00:00:00Z;Danmark
+10512;Ólafur Kristjánsson;1968-05-20 00:00:00Z;Island
+10516;Peder Knudsen;1970-07-16 00:00:00Z;Danmark
+10527;Erik Bo Andersen;1970-11-14 00:00:00Z;Danmark
+10528;Keld Tande Bordinggaard;1962-11-23 00:00:00Z;Danmark
+10529;Kenni Sommer;1974-08-02 00:00:00Z;Danmark
+10530;Johnny Mølby;1969-02-04 00:00:00Z;Danmark
+10532;Thomas Gaardsøe Christensen;1979-11-23 00:00:00Z;Danmark
+10542;Peter Sørensen;1973-03-24 00:00:00Z;Danmark
+10552;John Jensen;0001-01-01 00:00:00Z;03.05.1965                                                                         (51 &aring;r)
+10562;Lars Højer Nielsen;1970-12-08 00:00:00Z;Danmark
+10576;Kenneth Emil Petersen;1985-01-15 00:00:00Z;Danmark
+10578;Wassim El Banna;1979-05-10 00:00:00Z;Danmark
+10586;Søren Holdgaard;1979-01-30 00:00:00Z;Danmark
+10597;Torben Boye;1966-05-02 00:00:00Z;Danmark
+10603;Jesper Grønkjær;1977-08-12 00:00:00Z;Danmark
+10608;Mauricio Ortiz;1986-06-24 00:00:00Z;Argentina
+10610;Anders Kaagh;1986-07-18 00:00:00Z;Danmark
+10611;Leon Jessen;1986-06-11 00:00:00Z;Danmark
+10618;Christian Kemph;1979-10-04 00:00:00Z;Danmark
+10619;Rasmus Katholm;1981-06-22 00:00:00Z;Danmark
+10620;Kasper Vandborg Rasmussen;1977-12-04 00:00:00Z;Danmark
+10621;Kim Østergaard Nielsen;1974-10-20 00:00:00Z;Danmark
+10623;Lars Larsen;1978-11-14 00:00:00Z;Danmark
+10625;Michael Laursen;1977-12-16 00:00:00Z;Danmark
+10626;Morten Lauritsen;1977-12-10 00:00:00Z;Danmark
+10627;Mikkel Rask;1983-06-22 00:00:00Z;Danmark
+10628;Rasmus Hansen;1979-02-15 00:00:00Z;Danmark
+10630;Rene Carlsen;1979-09-30 00:00:00Z;Danmark
+10631;Svenne Poulsen;1980-11-11 00:00:00Z;Danmark
+10633;Thomas Domino Andersen;1984-08-20 00:00:00Z;Danmark
+10634;Jens Berthel Askou;1982-08-19 00:00:00Z;Danmark
+10635;Lasse Ankjær;1983-03-30 00:00:00Z;Danmark
+10636;Lasse Jørgensen;1984-04-23 00:00:00Z;Danmark
+10637;Martin Ørnskov Nielsen;1985-10-10 00:00:00Z;Danmark
+10638;Morten Søndergaard;1985-03-07 00:00:00Z;Danmark
+10639;Mikkel Petersen;1978-01-30 00:00:00Z;Danmark
+10640;Radivoje Lekic;1981-07-03 00:00:00Z;Danmark
+10641;Simon Nagel;1985-07-05 00:00:00Z;Danmark
+10642;Thomas Raun;1984-06-29 00:00:00Z;Danmark
+10643;Johan Elmander;1981-05-27 00:00:00Z;Sverige
+10644;Daniel Munthe Agger;1984-12-12 00:00:00Z;Danmark
+10645;Kolja Afriyie;1982-04-06 00:00:00Z;Tyskland
+10646;Anders Nøhr;1981-09-03 00:00:00Z;Danmark
+10647;Dan Vesterby Thomassen;1981-03-24 00:00:00Z;Danmark
+10648;Janne Saarinen;1977-02-28 00:00:00Z;Finland
+10649;William Kvist Jørgensen;1985-02-24 00:00:00Z;Danmark
+10650;Morten Bertolt Andersen;1984-02-12 00:00:00Z;Danmark
+10651;Morten Petersen;1982-03-03 00:00:00Z;Danmark
+10652;Kwadwo Poku;1985-05-05 00:00:00Z;Ghana
+10653;Kim Christensen;1979-07-16 00:00:00Z;Danmark
+10654;Daniel Jensen;1985-05-08 00:00:00Z;Danmark
+10655;Venhar Sabani;1985-06-13 00:00:00Z;Danmark
+10656;Morten Karlsen;1979-03-25 00:00:00Z;Danmark
+10657;Phillip Manneh Andersen;1986-08-20 00:00:00Z;Danmark
+10658;Frederik Lassen;1986-02-20 00:00:00Z;Danmark
+10659;Sladan Peric;1982-04-15 00:00:00Z;Danmark
+10660;Kenneth Jørgensen;1980-01-28 00:00:00Z;Danmark
+10661;Emil Schouw Pedersen;1985-07-04 00:00:00Z;Danmark
+10663;Lasse Rostholm;1984-05-16 00:00:00Z;Danmark
+10664;Tommy Markussen;1984-03-04 00:00:00Z;Danmark
+10665;Jonas Troest;1985-03-04 00:00:00Z;Danmark
+10666;Paul Obiefule;1986-05-15 00:00:00Z;Nigeria
+10667;Túlio Vinicius Fróes de Melo;1985-01-31 00:00:00Z;Brasilien
+10668;Jonas Skov Borring;1985-01-04 00:00:00Z;Danmark
+10669;Martin Mikkelsen;1986-04-29 00:00:00Z;Danmark
+10670;Wellington Dantas de Jesus;1982-06-09 00:00:00Z;Brasilien
+10671;Babis Stefanidis;1981-03-08 00:00:00Z;Sverige
+10672;Oluwafemi Ebenezer Ajilore;1985-01-18 00:00:00Z;Nigeria
+10673;Jonny Hanssen;1972-12-13 00:00:00Z;Norge
+10674;Billy Berntsson;1984-01-06 00:00:00Z;Sverige
+10675;Pontus Segerström;1981-02-17 00:00:00Z;Sverige
+10676;Tobias Linderoth;1979-04-21 00:00:00Z;Sverige
+10677;Magne Hoseth;1980-10-13 00:00:00Z;Norge
+10678;Søren Barslund;1977-12-24 00:00:00Z;Danmark
+10679;Henrik Smedegaard;1985-06-06 00:00:00Z;Danmark
+10680;Ebrima Sowe;1984-11-27 00:00:00Z;Gambia
+10681;Kristian Møller;1980-11-23 00:00:00Z;Danmark
+10682;Kristoffer Arvhage;1977-11-03 00:00:00Z;Sverige
+10684;Benny Gall;1971-03-14 00:00:00Z;Danmark
+10685;Danilo Arrieta;1987-02-10 00:00:00Z;Danmark
+10686;José Roberto Rodrigues Mota Junior;1979-05-10 00:00:00Z;Brasilien
+10688;Yuri Morales;1981-09-30 00:00:00Z;USA
+10689;Anders Dahl Simonsen;1983-03-09 00:00:00Z;Danmark
+10692;Mads Villadsen;1986-10-05 00:00:00Z;Danmark
+10693;Martin Søndergaard;1984-07-27 00:00:00Z;Danmark
+10694;Jens Gjesing;1986-01-13 00:00:00Z;Danmark
+10695;Ruben Nygaard;1986-05-25 00:00:00Z;Danmark
+10696;Tuomas Aho;1981-05-27 00:00:00Z;Finland
+10697;Henrik Kildentoft;1985-03-18 00:00:00Z;Danmark
+10698;Kenneth Rasmussen;1973-09-11 00:00:00Z;Danmark
+10699;Alexander Aas;1978-09-14 00:00:00Z;Norge
+10700;Mikkel Blavnsfeldt;1980-01-03 00:00:00Z;Danmark
+10701;Anders Torpegaard;1986-11-02 00:00:00Z;Danmark
+10702;Dennis Flinta;1983-11-14 00:00:00Z;Danmark
+10703;Mattias Lindström;1980-04-18 00:00:00Z;Sverige
+10704;Marco Reda;1977-06-22 00:00:00Z;Canada
+10706;Mads Frost;1983-04-06 00:00:00Z;Danmark
+10707;Martin Vingaard Hansen;1985-03-20 00:00:00Z;Danmark
+10709;Thomas Fauerskov Kristensen;1983-04-17 00:00:00Z;Danmark
+10711;Bojan Tadic;1981-03-02 00:00:00Z;Bosnien-Hercegovina
+10712;Charles Gbeke;1978-03-15 00:00:00Z;Canada
+10713;Jesper Lange;1986-01-11 00:00:00Z;Danmark
+10714;Michael Jakobsen;1986-01-02 00:00:00Z;Danmark
+10716;Christer George;1979-08-11 00:00:00Z;Norge
+10717;Michaël Murcy;1979-09-18 00:00:00Z;Frankrig
+10718;Ola Tidman;1979-05-11 00:00:00Z;Sverige
+10719;Besart Berisha;1985-07-29 00:00:00Z;Albanien
+10720;Patrice Kwedi;1983-09-30 00:00:00Z;Cameroun
+10721;Alen Ivano Marcina;1979-07-13 00:00:00Z;Canada
+10722;Søren Ulrik Vestergaard;1987-05-04 00:00:00Z;Danmark
+10723;Heath Pearce;1984-08-13 00:00:00Z;USA
+10724;Marcelo Oliveira da Silva;1984-01-10 00:00:00Z;Brasilien
+10726;Mamadou Coulibaly;1980-05-26 00:00:00Z;Elfenbenskysten
+10727;Mattias Thylander;1974-10-22 00:00:00Z;Sverige
+10728;Jan Tore Ophaug;1977-03-25 00:00:00Z;Norge
+10730;Rune Hagen;1975-07-20 00:00:00Z;Norge
+10731;Jesper Grønberg;1984-06-04 00:00:00Z;Danmark
+10732;Jonas Damborg;1986-04-17 00:00:00Z;Danmark
+10733;Søren Philipp;1983-06-26 00:00:00Z;Danmark
+10734;Rasmus Grønberg Hansen;1986-04-12 00:00:00Z;Danmark
+10735;Lasse Visgaard Heinze;1986-04-03 00:00:00Z;Danmark
+10736;Martin Christensen;0001-01-01 00:00:00Z;23.12.1987                                                                         (27 &aring;r)
+10737;Martin Jungbloot;1983-12-10 00:00:00Z;Danmark
+10738;Kingsley Onyenekwe;1986-07-30 00:00:00Z;Nigeria
+10739;Simon Richter;1985-01-16 00:00:00Z;Danmark
+10740;Michael Lumb;1988-01-09 00:00:00Z;Danmark
+10741;Frederik Krabbe;1988-03-10 00:00:00Z;Danmark
+10742;Søren Jochumsen;1976-08-01 00:00:00Z;Danmark
+10744;Per Gade;1977-08-24 00:00:00Z;Danmark
+10745;Martin Halle;1981-10-16 00:00:00Z;Danmark
+10746;Steffen Rehder Algreen;1979-09-17 00:00:00Z;Danmark
+10747;Johan Byrial Hansen;1975-09-18 00:00:00Z;Danmark
+10749;Lasse Holmgaard;1981-04-10 00:00:00Z;Danmark
+10750;Allan Søgaard;1978-01-20 00:00:00Z;Danmark
+10751;Søren Engell Friis;1976-12-13 00:00:00Z;Danmark
+10752;Steffen Ernemann;1982-04-26 00:00:00Z;Danmark
+10757;Simon Elbæk Jensen;1982-03-08 00:00:00Z;Danmark
+10758;Miki Rasmussen;1983-03-02 00:00:00Z;Danmark
+10761;Jesper Mortensen;1973-10-20 00:00:00Z;Danmark
+10762;Martin Thomsen;1980-10-31 00:00:00Z;Danmark
+10763;Michael Christensen;1978-11-18 00:00:00Z;Danmark
+10764;Peter Nymann Mikkelsen;1982-08-22 00:00:00Z;Danmark
+10767;Henrik Jørgensen;1979-01-12 00:00:00Z;Danmark
+10768;Jacob Olesen;1981-02-01 00:00:00Z;Danmark
+10769;Thomas Gormsen;1984-07-05 00:00:00Z;Danmark
+10770;Rasmus Johansen;1978-07-07 00:00:00Z;Danmark
+10771;Simon Busk Poulsen;1984-10-07 00:00:00Z;Danmark
+10772;Dennis Danry;1978-12-05 00:00:00Z;Danmark
+10774;Marcus Lantz;1975-10-23 00:00:00Z;Sverige
+10775;Lasse Qvist;1987-01-17 00:00:00Z;Danmark
+10776;Magnus Troest;1987-06-05 00:00:00Z;Danmark
+10777;Michael Ribers;1981-05-19 00:00:00Z;Danmark
+10779;Anders Rosenkrantz Lindegaard;1984-04-13 00:00:00Z;Danmark
+10780;Jeppe Lund Curth;1984-03-21 00:00:00Z;Danmark
+10782;Jeppe Feldsted Brandrup;1985-06-03 00:00:00Z;Danmark
+10783;Martin Løfqvist Bernburg;1985-12-26 00:00:00Z;Danmark
+10784;Peter Ijeh;1977-03-28 00:00:00Z;Nigeria
+10785;Marcus Allbäck;1973-07-05 00:00:00Z;Sverige
+10786;Anders Due Jensen;1982-03-17 00:00:00Z;Danmark
+10787;Kristian Kirk;1986-07-30 00:00:00Z;Danmark
+10788;Stephan Petersen;1985-11-15 00:00:00Z;Danmark
+10789;John Alvbåge;1982-08-10 00:00:00Z;Sverige
+10790;Súni Olsen;1981-03-07 00:00:00Z;Færøerne
+10791;Ulrik Rosenløv Laursen;1976-02-28 00:00:00Z;Danmark
+10792;Roger Risholt;1979-04-10 00:00:00Z;Norge
+10793;Kasper Klausen;1982-12-20 00:00:00Z;Danmark
+10794;André Bergdølmo;1971-10-13 00:00:00Z;Norge
+10795;Thomas Enevoldsen;1987-07-27 00:00:00Z;Danmark
+10796;David Preece;1976-08-26 00:00:00Z;England
+10798;Dennis Bo Mortensen;1981-05-19 00:00:00Z;Danmark
+10799;Kim Drejs;1980-08-15 00:00:00Z;Danmark
+10800;Marc Møller;1986-06-07 00:00:00Z;Danmark
+10801;Bajram Tofti Fetai;1985-09-07 00:00:00Z;Makedonien
+10802;Njogu Demba-Nyrén;1979-06-26 00:00:00Z;Gambia
+10803;Martin Åslund;1976-11-10 00:00:00Z;Sverige
+10804;Artim Sakiri;1973-09-23 00:00:00Z;Makedonien
+10805;Charles Akonnor;1974-03-12 00:00:00Z;Tyskland
+10806;Jamie McMaster;1982-11-29 00:00:00Z;Australien
+10807;Leandro de Deus Santos;1977-04-26 00:00:00Z;Brasilien
+10808;Rögvi Jacobsen;1979-03-05 00:00:00Z;Færøerne
+10809;Bouabid Bouden;1982-02-01 00:00:00Z;Marokko
+10810;Nikola Gjosevski;1979-04-01 00:00:00Z;Makedonien
+10811;Jimmy Høyer;1978-01-08 00:00:00Z;Danmark
+10812;Morten Rasmussen;0001-01-01 00:00:00Z;26.03.1985                                                                         (30 &aring;r)
+10813;Jonathan Richter;1985-01-16 00:00:00Z;Danmark
+10814;Patrick Kristensen;1987-04-28 00:00:00Z;Danmark
+10815;José Luiz Guimarães Sanabio Júnior;1976-06-15 00:00:00Z;Brasilien
+10816;Winston Wiremu Reid;1988-07-03 00:00:00Z;New Zealand
+10817;Cheikh Sarr;1987-03-15 00:00:00Z;Danmark
+10818;Jesper Jørgensen;1983-03-10 00:00:00Z;Danmark
+10819;Morten Hyldgaard Lauritsen;1978-01-26 00:00:00Z;Danmark
+10820;Mike Tullberg;1985-12-22 00:00:00Z;Danmark
+10822;Danny Sten Olsen;1985-06-11 00:00:00Z;Danmark
+10823;Magne Sturød;1979-10-19 00:00:00Z;Norge
+10824;Morten Fevang;1975-03-06 00:00:00Z;Norge
+10825;Johnny Thomsen;1982-02-26 00:00:00Z;Danmark
+10827;Daniel Hoch;1979-05-11 00:00:00Z;Sverige
+10828;Daniel Benjamin Califf;1980-03-17 00:00:00Z;USA
+10829;Fredrik Winsnes;1975-12-28 00:00:00Z;Norge
+10830;Jón Rói Jacobsen;1983-04-07 00:00:00Z;Færøerne
+10831;Kenneth Stenild Nielsen;1987-09-11 00:00:00Z;Danmark
+10832;Jens-Kristian Selvejer Sørensen;1987-03-21 00:00:00Z;Danmark
+10833;Joseph Elanga;1979-05-02 00:00:00Z;Cameroun
+10834;Richard Henriksson;1983-10-05 00:00:00Z;Sverige
+10836;Brede Hangeland;1981-06-20 00:00:00Z;Norge
+10837;Atiba Hutchinson;1983-02-08 00:00:00Z;Canada
+10838;Joel Tchami;1982-03-25 00:00:00Z;Cameroun
+10839;Jukka Santala;1985-09-10 00:00:00Z;Finland
+10840;Lars Pleidrup;1981-08-13 00:00:00Z;Danmark
+10841;Lucas de Deus Santos;0001-01-01 00:00:00Z;09.10.1982                                                                         (32 &aring;r)
+10842;Andreas Klarström;1977-12-23 00:00:00Z;Sverige
+10843;Bjarni Olafur Eiriksson;1982-03-28 00:00:00Z;Island
+10844;Hördur Sveinsson;1983-03-24 00:00:00Z;Island
+10845;John Jairo Mosquera;0001-01-01 00:00:00Z;15.01.1988                                                                         (27 &aring;r)
+10846;Christian Flindt Bjerg;1974-02-19 00:00:00Z;Danmark
+10847;Michael Vester;1988-05-04 00:00:00Z;Danmark
+10848;Thiago Pinto Borges;1988-10-22 00:00:00Z;Brasilien
+10850;Christian Sivebæk;1988-02-19 00:00:00Z;Danmark
+10852;Joseph Kamwendo;1986-10-23 00:00:00Z;Malawi
+10854;Mikkel Vendelbo;1987-08-15 00:00:00Z;Danmark
+10855;Akeem Agbetu;1988-03-10 00:00:00Z;Nigeria
+10856;Martin Spelmann;1987-03-21 00:00:00Z;Danmark
+10857;Jesper Nielsen;1983-12-08 00:00:00Z;Danmark
+10858;Mike Lindemann Jensen;1988-02-19 00:00:00Z;Danmark
+10860;Theis Frydenlund Rasmussen;1984-07-12 00:00:00Z;Danmark
+10861;Jesper Olesen;1980-10-13 00:00:00Z;Danmark
+10864;Steffen Kielstrup;1984-10-18 00:00:00Z;Danmark
+10865;Nikolaj Hust;1978-10-30 00:00:00Z;Danmark
+10866;Adeshina Abayomi Lawal;1984-10-17 00:00:00Z;Nigeria
+10867;Dario Mijatovic;1984-08-13 00:00:00Z;Kroatien
+10868;Kenneth Knudsen;1981-02-03 00:00:00Z;Danmark
+10870;Issey Morgan Nakajima-Farran;1984-05-16 00:00:00Z;Canada
+10871;Justice John Erhenede;1986-06-26 00:00:00Z;Nigeria
+10872;Lasse Kronborg;1986-04-03 00:00:00Z;Danmark
+10873;Brian Nielsen;1987-02-25 00:00:00Z;Danmark
+10875;Mads Torry;1986-05-13 00:00:00Z;Danmark
+10876;David Williams;1988-02-26 00:00:00Z;Australien
+10878;Oscar Wendt;1985-10-24 00:00:00Z;Sverige
+10879;Bechara Jalkh Leonardo Oliveira;1976-02-25 00:00:00Z;Brasilien
+10880;Mads Timm;1984-10-31 00:00:00Z;Danmark
+10881;Todor Yanchev;1976-05-19 00:00:00Z;Bulgarien
+10882;Chrystiano Gomes Ferraz;0001-01-01 00:00:00Z;06.12.1986                                                                         (28 &aring;r)
+10883;Rade Prica;1980-06-30 00:00:00Z;Sverige
+10884;Siyabonga Nomvethe;1977-12-02 00:00:00Z;Sydafrika
+10885;Gilberto Macedo de Macena;1984-04-01 00:00:00Z;Brasilien
+10886;Kenneth Sørensen;1982-03-14 00:00:00Z;Danmark
+10887;Lars Jensen;1975-07-04 00:00:00Z;Danmark
+10890;Yasin Avci;1984-08-03 00:00:00Z;Danmark
+10893;Nikolaj Hansen;1987-04-07 00:00:00Z;Danmark
+10895;Christian Olsen;1983-11-09 00:00:00Z;Danmark
+10896;Anders Qvist;1987-07-31 00:00:00Z;Danmark
+10897;Kenni Olsen;1985-06-11 00:00:00Z;Danmark
+10898;Søren Ejlersgård Christensen;1986-06-29 00:00:00Z;Danmark
+10899;Morten Nordstrand Nielsen;1983-06-08 00:00:00Z;Danmark
+10901;Baye Djiby Fall;1985-04-20 00:00:00Z;Senegal
+10902;Tidiane Sane;1985-07-10 00:00:00Z;Senegal
+10905;Michael Elvers Tørnes;1986-01-08 00:00:00Z;Danmark
+10906;Gabriel Issah Ahmed;1982-05-24 00:00:00Z;Ghana
+10907;Alex da Silva;1981-12-27 00:00:00Z;Brasilien
+10908;Fabio Trindade da Silveira;1977-05-26 00:00:00Z;Brasilien
+10911;Emil Antonsen;1985-01-20 00:00:00Z;Danmark
+10912;Martin Pedersen;1986-03-26 00:00:00Z;Danmark
+10916;Mads Toppel;1982-01-30 00:00:00Z;Danmark
+10919;Thomas Dalgaard;1984-04-13 00:00:00Z;Danmark
+10920;Mathias Hansen;1984-06-22 00:00:00Z;Danmark
+10921;Robbie Russell;1979-07-16 00:00:00Z;USA
+10922;Joseph William Zewe;1983-06-22 00:00:00Z;USA
+10924;Taofeek Adigun Salami;1988-05-06 00:00:00Z;Nigeria
+10925;Peguero Jean Philippe;1981-09-29 00:00:00Z;Haiti
+10926;Kristian Flittie Onstad;1984-05-09 00:00:00Z;Norge
+10927;Johnny Lundberg;1982-04-15 00:00:00Z;Sverige
+10928;Mark Howard;1986-01-29 00:00:00Z;England
+10929;Casper Johansen;1988-07-28 00:00:00Z;Danmark
+10930;Rawez Lawan;1987-10-04 00:00:00Z;Sverige
+10932;Adam Eckersley;1985-09-07 00:00:00Z;England
+10933;Akos Takacs;1982-02-14 00:00:00Z;Ungarn
+10934;Janus Mats Drachmann;1988-05-11 00:00:00Z;Danmark
+10935;Søren Rieks;1987-04-07 00:00:00Z;Danmark
+10936;Imad Khalili;1987-04-03 00:00:00Z;Sverige
+10937;Hannes Sigurdsson;1983-04-10 00:00:00Z;Island
+10938;Giovanni Rector;1982-01-27 00:00:00Z;Sydafrika
+10940;Raoul Kouakou;1980-03-01 00:00:00Z;Elfenbenskysten
+10941;Georgi Popkhadze;1986-09-25 00:00:00Z;Georgien
+10942;Holmar Örn Runarsson;1981-12-10 00:00:00Z;Island
+10943;Christian Muomaife;1987-12-20 00:00:00Z;Nigeria
+10944;Ayinde Jamiu Lawal;1988-05-12 00:00:00Z;Nigeria
+10945;Nicolaj Moesgaard Agger;1988-10-23 00:00:00Z;Danmark
+10946;Marc Olsen;1986-01-15 00:00:00Z;Danmark
+10947;Ali Gerba;1981-09-04 00:00:00Z;Canada
+10948;Mikkel Rufus Mutahi Bischoff;1982-02-03 00:00:00Z;Danmark
+10949;Chris Katongo;1982-08-31 00:00:00Z;Zambia
+10951;Igors Nicolavich Stepanovs;1976-01-21 00:00:00Z;Letland
+10952;Jonas Bjurström;1979-03-24 00:00:00Z;Sverige
+10953;Nathan Coe;1984-06-01 00:00:00Z;Australien
+10954;Ailton José Almeida;1984-08-20 00:00:00Z;Brasilien
+10955;Martin Raska;1977-01-31 00:00:00Z;Tjekkiet
+10956;Simon Thorup Kjær;1989-03-26 00:00:00Z;Danmark
+10958;Babajide Collins Babatunde;1988-12-02 00:00:00Z;Nigeria
+10959;Serghei Dadu;1981-01-23 00:00:00Z;Moldova
+10960;Henrik Bødker;1983-06-06 00:00:00Z;Danmark
+10961;Thomas Lund Helveg;1971-06-24 00:00:00Z;Danmark
+10962;Srdjan Radonjic;1981-05-08 00:00:00Z;Montenegro
+10963;Dormushali Saidhodzha;1986-05-29 00:00:00Z;Bulgarien
+10965;Casper Henningsen;1985-07-06 00:00:00Z;Danmark
+10966;Antti Okkonen;1982-06-06 00:00:00Z;Finland
+10967;Anton Smedegaard;1983-09-16 00:00:00Z;Danmark
+10969;Mads Fogh;1988-09-19 00:00:00Z;Danmark
+10970;Rodolfo dos Santos Soares;1985-05-20 00:00:00Z;Brasilien
+10971;Suguru Hashimoto;1982-06-16 00:00:00Z;Japan
+10972;Pablo Jesus Piñones-Arce;1981-08-27 00:00:00Z;Sverige
+10973;Tom Reidar Haraldsen;1980-08-29 00:00:00Z;Norge
+10974;Regis Amarante;1976-06-03 00:00:00Z;Brasilien
+10975;Anders Degn Randrup;1988-07-16 00:00:00Z;Danmark
+10976;Jacob Berthelsen;1986-07-04 00:00:00Z;Danmark
+10977;Lasse Sørensen;1982-03-06 00:00:00Z;Danmark
+10978;Nick Christensen;1985-08-28 00:00:00Z;Danmark
+10979;Steffen Lauser;1984-03-04 00:00:00Z;Tyskland
+10981;Alex Valencia;1979-09-22 00:00:00Z;Norge
+10983;Ole Budtz;1979-04-20 00:00:00Z;Danmark
+10986;Kári Árnason;1982-10-13 00:00:00Z;Island
+10987;Jeremiah White;1982-04-04 00:00:00Z;USA
+10988;Razak Salifu;1988-10-01 00:00:00Z;Ghana
+10989;Stefán Gíslason;1980-03-15 00:00:00Z;Island
+10990;Tobias Pilegaard Mikkelsen;1986-09-18 00:00:00Z;Danmark
+10991;Jeppe Mehl;1986-09-21 00:00:00Z;Danmark
+10993;Mikael Antonsson;1981-05-31 00:00:00Z;Sverige
+10994;Mathias Jattah-Njie Jørgensen;0001-01-01 00:00:00Z;23.04.1990                                                                         (25 &aring;r)
+10995;Jacob Neestrup;1988-03-08 00:00:00Z;Danmark
+10996;Mads Thunø Laudrup;1989-02-09 00:00:00Z;Danmark
+10997;Maros Klimpl;1980-07-04 00:00:00Z;Slovakiet
+10999;Christian Nielsen;0001-01-01 00:00:00Z;24.03.1985                                                                         (30 &aring;r)
+11000;Bo Storm;1987-02-03 00:00:00Z;Danmark
+11002;Marcus Pode;1986-03-27 00:00:00Z;Sverige
+11003;Alexander Fischer;1986-09-16 00:00:00Z;Danmark
+11004;Kim Aabech;1983-05-31 00:00:00Z;Danmark
+11005;Morten Christiansen;1978-01-04 00:00:00Z;Danmark
+11007;Danny Andersen;1983-01-29 00:00:00Z;Danmark
+11008;Jesper Mølgaard Kristensen;1986-09-16 00:00:00Z;Danmark
+11010;Christian Lamhauge Holst;1981-12-25 00:00:00Z;Færøerne
+11011;Andreas Bjelland;1988-07-11 00:00:00Z;Danmark
+11012;Thomas Seidelin;1987-01-04 00:00:00Z;Danmark
+11013;Rang Shawkat Barawy;1986-04-07 00:00:00Z;Danmark
+11014;Mikkel Beckmann;1983-10-24 00:00:00Z;Danmark
+11015;Ronni Hansen;1988-06-30 00:00:00Z;Danmark
+11016;Martin Andersen;1986-11-07 00:00:00Z;Danmark
+11017;Mads Haarslev Thomsen;1989-03-15 00:00:00Z;Danmark
+11018;Tem Hansen;1984-01-18 00:00:00Z;Færøerne
+11019;Lasse Rise;1986-06-09 00:00:00Z;Danmark
+11020;Bengt Sæternes;1975-01-01 00:00:00Z;Norge
+11021;Christian Bolaños Hueco Navarro;1984-05-17 00:00:00Z;Costa Rica
+11022;Matti Lund Nielsen;1988-05-08 00:00:00Z;Danmark
+11024;Anders Kvindebjerg Jacobsen;1989-10-27 00:00:00Z;Danmark
+11025;Kevin Stuhr Ellegaard;1983-05-23 00:00:00Z;Danmark
+11026;Emil Bekker Ousager;1987-07-19 00:00:00Z;Danmark
+11027;Kasper Fisker Jensen;1988-05-22 00:00:00Z;Danmark
+11028;Bedi Buval;1986-06-16 00:00:00Z;Frankrig
+11029;Petter Furuseth;1978-08-14 00:00:00Z;Norge
+11030;Robert Åhman-Persson;1987-03-26 00:00:00Z;Sverige
+11031;Rúrik Gíslason;1988-02-25 00:00:00Z;Island
+11032;Christian Overby;1985-08-23 00:00:00Z;Danmark
+11033;Lasse Nielsen;1988-01-08 00:00:00Z;Danmark
+11034;Ronnie Schwartz Nielsen;1989-08-29 00:00:00Z;Danmark
+11035;Andreas Johansson;1978-07-05 00:00:00Z;Sverige
+11036;Libor Sionko;1977-02-01 00:00:00Z;Tjekkiet
+11037;Benedict Vilakazi;1982-08-09 00:00:00Z;Sydafrika
+11038;Emil Dyre;1984-02-09 00:00:00Z;Danmark
+11039;Zoltan Balog;1978-02-22 00:00:00Z;Ungarn
+11040;Blerim Rrustemi;1983-02-04 00:00:00Z;Albanien
+11041;Morten Beck Andersen;1988-01-02 00:00:00Z;Danmark
+11042;Brian Tømming Hamalainen;1989-05-29 00:00:00Z;Danmark
+11043;Steve Olfers;1982-02-25 00:00:00Z;Holland
+11044;Dioh Williams;1984-10-08 00:00:00Z;Liberia
+11045;Garra Dembélé;1986-02-21 00:00:00Z;Frankrig
+11046;Ibrahim Babatunde;1984-12-29 00:00:00Z;Nigeria
+11048;Nicklas Pedersen;1987-10-10 00:00:00Z;Danmark
+11049;Luiz Carlos;1980-08-31 00:00:00Z;Brasilien
+11051;Samuel Holmén;1984-06-28 00:00:00Z;Sverige
+11052;Christian Andreasen;1988-05-18 00:00:00Z;Danmark
+11053;Jesper Blicher;1988-10-04 00:00:00Z;Danmark
+11054;Dennis Høegh;1989-02-21 00:00:00Z;Danmark
+11055;Daniel Wass;1989-05-31 00:00:00Z;Danmark
+11056;Alexander Juel Andersen;1991-01-29 00:00:00Z;Danmark
+11059;Emil Haucke;1989-01-17 00:00:00Z;Danmark
+11060;Daniel Christensen;1988-09-19 00:00:00Z;Danmark
+11061;Max von Schlebrügge;1977-02-01 00:00:00Z;Sverige
+11062;Zdenek Pospech;1978-12-14 00:00:00Z;Tjekkiet
+11063;Niclas Tüchsen;1989-07-28 00:00:00Z;Danmark
+11065;Fredrik Björck;1979-10-22 00:00:00Z;Sverige
+11067;Emmanuel Ukpai;1987-10-11 00:00:00Z;Nigeria
+11068;Andrew Mateusz Ornoch;1985-08-21 00:00:00Z;Canada
+11069;Adeola Lanre Runsewe;1989-12-01 00:00:00Z;Nigeria
+11071;Jude Ikechukwu Nworuh;1989-06-09 00:00:00Z;Nigeria
+11072;George Mihai Florescu;1984-05-21 00:00:00Z;Rumænien
+11073;Andreas Dahl;1984-06-06 00:00:00Z;Sverige
+11074;Rasmus Christiansen;1989-10-06 00:00:00Z;Danmark
+11075;Robert Arzumanyan;1986-07-24 00:00:00Z;Armenien
+11077;Kian Christensen;1986-08-12 00:00:00Z;Danmark
+11078;Marc Stephen Griffith Nygaard;1976-09-01 00:00:00Z;Danmark
+11079;Lars Nilsson;0001-01-01 00:00:00Z;03.01.1982                                                                         (33 &aring;r)
+11080;Simeon Bulgaru;1985-05-26 00:00:00Z;Danmark
+11081;Ken Fagerberg;1989-01-09 00:00:00Z;Sverige
+11082;Ibrahim Gnanou;1986-11-08 00:00:00Z;Burkina Faso
+11083;Alain Behi;1978-07-01 00:00:00Z;Frankrig
+11084;Will John;1985-06-13 00:00:00Z;USA
+11085;Lee Nguyen;1986-10-07 00:00:00Z;USA
+11086;Atle Roar Håland;1977-07-26 00:00:00Z;Norge
+11087;Robert Veselovsky;1985-09-02 00:00:00Z;Slovakiet
+11092;Christian Bjørnshøj Poulsen;1980-02-28 00:00:00Z;Danmark
+11094;Lars Martin Jørgensen;1975-10-06 00:00:00Z;Danmark
+11095;Dennis Rommedahl;1978-07-22 00:00:00Z;Danmark
+11100;Niels Bach Kristensen;1988-04-24 00:00:00Z;Danmark
+11101;Kasper Povlsen;1989-09-26 00:00:00Z;Danmark
+11104;Kasper Bøgelund Nielsen;1980-10-08 00:00:00Z;Danmark
+11105;Michael Krohn-Dehli;1983-06-06 00:00:00Z;Danmark
+11107;Martin Nielsen;1989-01-21 00:00:00Z;Danmark
+11108;Pierre Kanstrup;1989-02-21 00:00:00Z;Danmark
+11109;Kevin Conboy;1987-10-15 00:00:00Z;Danmark
+11110;Patrick Mortensen;1989-07-13 00:00:00Z;Danmark
+11111;Kevin Schmidt;1988-12-11 00:00:00Z;Danmark
+11112;Joshua Wagenaar;1985-02-26 00:00:00Z;Canada
+11114;Michael Beauchamp;1981-03-08 00:00:00Z;Australien
+11115;Nabil Aslam;1984-08-03 00:00:00Z;Danmark
+11118;Nando Rafael;1984-01-10 00:00:00Z;Tyskland
+11119;Alexander Farnerud;1984-05-01 00:00:00Z;Sverige
+11120;Jon Jönsson;1983-07-08 00:00:00Z;Sverige
+11121;Martin Fribrock;1984-08-28 00:00:00Z;Sverige
+11122;Gunnar Heidar Thorvaldsson;1982-04-01 00:00:00Z;Island
+11123;Adrian Cann;1980-09-19 00:00:00Z;Canada
+11124;Danni Jensen;1989-06-10 00:00:00Z;Danmark
+11126;Espen Ruud;1984-02-26 00:00:00Z;Norge
+11127;Timmi Johansen;1987-05-08 00:00:00Z;Danmark
+11128;Björn Sandro Runström;1984-03-01 00:00:00Z;Sverige
+11130;Filip Marcic;1985-02-22 00:00:00Z;Kroatien
+11131;Jesper Lindorff Juelsgård;1989-01-26 00:00:00Z;Danmark
+11132;Kristian Ipsa;1986-04-04 00:00:00Z;Kroatien
+11133;Mads Winther Albæk;1990-01-14 00:00:00Z;Danmark
+11134;Sekou Oliseh;1990-06-05 00:00:00Z;Liberia
+11135;Patrice Bernier;1979-09-23 00:00:00Z;Canada
+11136;Benjamin Kibebe;1981-08-13 00:00:00Z;Sverige
+11137;Ricki Olsen;1988-10-21 00:00:00Z;Danmark
+11138;Tiago João Targino da Silva;1986-06-06 00:00:00Z;Portugal
+11139;David Ousted Hansen;1985-02-01 00:00:00Z;Danmark
+11141;Jesper Kristoffersen;1984-02-02 00:00:00Z;Danmark
+11142;Sölvi Geir Ottesen Jónsson;1984-02-18 00:00:00Z;Island
+11145;Michael Stryger;1983-04-15 00:00:00Z;Danmark
+11146;Jesper Jensen;1988-04-22 00:00:00Z;Danmark
+11148;Sedin Alic;1989-05-31 00:00:00Z;Danmark
+11149;Jesper Kjærulff;1983-10-07 00:00:00Z;Danmark
+11150;Ken Ilsø Larsen;1986-12-02 00:00:00Z;Danmark
+11151;Mads Jessen;1989-10-14 00:00:00Z;Danmark
+11152;Søren Frederiksen;1989-07-08 00:00:00Z;Danmark
+11153;Chris Sørensen;1989-05-08 00:00:00Z;Danmark
+11154;Anders Østli;1983-01-08 00:00:00Z;Norge
+11155;Valentino Lai;1984-02-03 00:00:00Z;Sverige
+11157;Eduardo Delani Santos Leite;1981-11-03 00:00:00Z;Brasilien
+11160;Marc Pedersen;1989-07-31 00:00:00Z;Danmark
+11161;Hélder Jose Vaz Cabral;1984-05-07 00:00:00Z;Portugal
+11164;Jonas Lössl;1989-02-01 00:00:00Z;Danmark
+11165;Eric Djemba-Djemba;1981-05-04 00:00:00Z;Cameroun
+11168;Jimmy Mayasi;1987-06-06 00:00:00Z;Danmark
+11169;César Santin;1981-02-24 00:00:00Z;Brasilien
+11171;Peter Larsson;1984-04-30 00:00:00Z;Sverige
+11175;Marek Saganowski;1978-10-31 00:00:00Z;Polen
+11176;Benny Feilhaber;1985-01-19 00:00:00Z;USA
+11177;Jan Alexander Östlund;1978-11-02 00:00:00Z;Sverige
+11178;Peter Maduabuci Utaka;1984-02-12 00:00:00Z;Nigeria
+11180;David Nii Addy;1990-02-21 00:00:00Z;Ghana
+11182;Ousman Jallow;1988-10-21 00:00:00Z;Gambia
+11183;Davit Devdariani;1987-10-28 00:00:00Z;Georgien
+11184;Steven Pressley;1973-10-11 00:00:00Z;Skotland
+11185;Andrei Sidorenkov;1984-02-12 00:00:00Z;Estland
+11187;Kian Hansen;1989-03-03 00:00:00Z;Danmark
+11188;Nicki Bille Nielsen;1988-02-07 00:00:00Z;Danmark
+11189;Mustafa Ahmad Hassan;1990-02-10 00:00:00Z;Danmark
+11191;Philip Rasmussen;1989-01-12 00:00:00Z;Danmark
+11194;Mark Gundelach;1992-01-07 00:00:00Z;Danmark
+11196;Jonas Halling Frederiksen;1989-11-16 00:00:00Z;Danmark
+11198;Sanel Kapidzic;1990-04-14 00:00:00Z;Danmark
+11200;Henrik Dalsgaard;1989-07-27 00:00:00Z;Danmark
+11201;Kjetil Wæhler;1976-03-16 00:00:00Z;Norge
+11202;Andreas Augustsson;1976-11-26 00:00:00Z;Sverige
+11203;Arthur Sorin;1985-11-01 00:00:00Z;Frankrig
+11204;Alexander Jackson Møller;1990-01-21 00:00:00Z;Danmark
+11205;Mikael Rynell;1982-02-25 00:00:00Z;Sverige
+11206;Jones Kusi-Asare;1980-05-21 00:00:00Z;Sverige
+11207;Johan Wiland;1981-01-24 00:00:00Z;Sverige
+11208;Nenad Novakovic;1982-07-14 00:00:00Z;Serbien
+11209;Michael Parkhurst;1984-01-24 00:00:00Z;USA
+11210;Bobbie Friberg José da Cruz;1982-02-16 00:00:00Z;Sverige
+11211;Adda Djeziri;1988-08-03 00:00:00Z;Danmark
+11212;Andreas Retz Laudrup;1990-11-10 00:00:00Z;Danmark
+11213;Dame N'Doye;1985-02-21 00:00:00Z;Senegal
+11214;Marcus Tracy;1986-10-02 00:00:00Z;USA
+11215;Luton Shelton;1985-11-11 00:00:00Z;Jamaica
+11216;Lukáš Hrádecký;1989-11-24 00:00:00Z;Finland
+11217;Samel Sabanovic;1983-12-23 00:00:00Z;Montenegro
+11218;Ibrahim Salou;1979-05-29 00:00:00Z;Ghana
+11219;Remco Jelmer van der Schaaf;1979-02-28 00:00:00Z;Holland
+11221;David Raagaard Jensen;1992-03-25 00:00:00Z;Danmark
+11222;Mads Fenger Nielsen;1990-09-10 00:00:00Z;Danmark
+11223;Erik Sergeivich Sviatchenko;1991-10-04 00:00:00Z;Danmark
+11224;Chidi Dauda Omeje;1990-05-05 00:00:00Z;Nigeria
+11226;Izunna Arnest Uzochukwu;1990-04-11 00:00:00Z;Nigeria
+11227;Mads Dittmer Hvilsom;1992-08-23 00:00:00Z;Danmark
+11228;Nicolai Oliver Feldballe Petersen;1990-04-03 00:00:00Z;Danmark
+11229;Erik Marxen;1990-12-02 00:00:00Z;Danmark
+11232;Mohammed Abdalas;1986-10-26 00:00:00Z;Danmark
+11235;Philip Lund;1989-09-05 00:00:00Z;Danmark
+11236;Brian Pedersen;1988-01-31 00:00:00Z;Danmark
+11239;Per Bjørnsholm;1988-03-18 00:00:00Z;Danmark
+11242;Louay Chanko;1979-11-29 00:00:00Z;Syrien
+11243;Mikael Nilsson;1978-06-24 00:00:00Z;Sverige
+11244;Paul Jatta;1991-02-21 00:00:00Z;Gambia
+11245;Jens Stryger Larsen;1991-02-21 00:00:00Z;Danmark
+11246;Tim Wilhelmus Janssen;1986-03-06 00:00:00Z;Holland
+11247;Kevin Bechmann Timm;1989-07-09 00:00:00Z;Danmark
+11248;Thomas Delaney;1991-09-03 00:00:00Z;Danmark
+11249;Saban Özdogan;1990-03-14 00:00:00Z;Danmark
+11250;Lars Bjerring;1981-11-30 00:00:00Z;Danmark
+11251;Martin Arlofelt;1985-01-25 00:00:00Z;Danmark
+11254;Sebastian Lykke Andersen;1988-12-23 00:00:00Z;Danmark
+11255;Rytis Leliuga;1987-01-04 00:00:00Z;Litauen
+11256;Roberto Saraiva Fagundas;1983-02-05 00:00:00Z;Brasilien
+11257;Nicolaj Madsen;1988-07-16 00:00:00Z;Danmark
+11258;Arman Mehakovic;1988-03-09 00:00:00Z;Bosnien-Hercegovina
+11259;Mikkel Christoffersen;1983-08-10 00:00:00Z;Danmark
+11264;Danni König;1986-12-17 00:00:00Z;Danmark
+11267;Jim Kenneth Larsen;1985-11-06 00:00:00Z;Danmark
+11269;Kaimar Saag;1988-08-05 00:00:00Z;Estland
+11270;Martin Alexander Svensson;1989-08-10 00:00:00Z;Danmark
+11272;Lars Huldgaard Christensen;1989-02-01 00:00:00Z;Danmark
+11274;Thomas Nørgaard;1987-01-07 00:00:00Z;Danmark
+11275;Simon Makienok Christoffersen;1990-11-21 00:00:00Z;Danmark
+11276;Nicklas Nygaard Svendsen;1986-12-11 00:00:00Z;Danmark
+11277;Daniel Fredheim Holm;1985-07-30 00:00:00Z;Norge
+11280;Kennie Chopart;1990-06-01 00:00:00Z;Danmark
+11282;Martin Braithwaite;1991-06-05 00:00:00Z;Danmark
+11284;Casper Bisgaard Sloth;1992-03-26 00:00:00Z;Danmark
+11285;Jakob Ahlmann Nielsen;1991-01-18 00:00:00Z;Danmark
+11286;Michael Byskov;1988-02-20 00:00:00Z;Danmark
+11288;Anders Hostrup;1990-04-13 00:00:00Z;Danmark
+11291;Roy Eric Carroll;1977-09-30 00:00:00Z;Nordirland
+11293;Anders Nielsen;1986-09-28 00:00:00Z;Danmark
+11294;Dennis Marshall Maxwell;1985-08-09 00:00:00Z;23.06.2011                                     (25 &aring;r)
+11295;Stefan Hansen;1989-05-18 00:00:00Z;Danmark
+11297;Pierre Thomas Robin Bengtsson;1988-04-12 00:00:00Z;Sverige
+11299;Bjørn Paulsen;1991-07-02 00:00:00Z;Danmark
+11301;Simon Skou Jakobsen;1990-11-17 00:00:00Z;Danmark
+11302;Daniel Stenderup;1989-05-31 00:00:00Z;Danmark
+11303;Mathias Wichmann;1991-08-06 00:00:00Z;Danmark
+11305;Michael Aksel Bataican Falkesgaard;1991-04-09 00:00:00Z;Danmark
+11306;Nicolas Bøgild;1988-02-23 00:00:00Z;Danmark
+11307;Marcel Rømer;1991-08-08 00:00:00Z;Danmark
+11308;Kasper Kirkegaard Hansen;1991-02-15 00:00:00Z;Danmark
+11310;Chris Rolfe;1983-01-17 00:00:00Z;USA
+11311;Alexander Lund Hansen;1982-10-06 00:00:00Z;Norge
+11312;Yura Movsisyan;1987-08-02 00:00:00Z;Armenien
+11313;Ólafur Ingi Skúlason;1983-04-01 00:00:00Z;Island
+11314;Jesper Bøge Pedersen;1990-02-22 00:00:00Z;Danmark
+11315;Ömer Karatas;1990-10-31 00:00:00Z;Danmark
+11316;Quincy Antipas;1984-04-20 00:00:00Z;Zimbabwe
+11317;Andreas Granskov Hansen;1989-03-05 00:00:00Z;Danmark
+11319;Bryan Josué Oviedo Jiménez;1990-02-18 00:00:00Z;Costa Rica
+11320;Mark Leth Pedersen;1989-08-17 00:00:00Z;Danmark
+11321;Morten Christensen;1979-05-11 00:00:00Z;Danmark
+11322;Martin Rauschenberg Brorsen;1992-01-15 00:00:00Z;Danmark
+11323;Jonas Knudsen;1992-09-16 00:00:00Z;Danmark
+11324;Peter Friis Jensen;1988-05-02 00:00:00Z;Danmark
+11325;Rilwan Olanrewaju Hassan;1991-02-09 00:00:00Z;Nigeria
+11326;Albin-Kenneth Dahrup Zohore;1994-01-31 00:00:00Z;Danmark
+11328;Mathias Valentin;1989-03-29 00:00:00Z;Danmark
+11329;Brent McGrath;1991-06-18 00:00:00Z;Australien
+11330;Mikkel Cramer;1992-01-25 00:00:00Z;Danmark
+11331;Patrick Hansen;1991-04-15 00:00:00Z;Danmark
+11332;Alexander Dige;1992-04-21 00:00:00Z;Danmark
+11333;Christopher Geertsen;1993-01-24 00:00:00Z;Danmark
+11336;Peter Ankersen;1990-09-22 00:00:00Z;Danmark
+11337;Osama Akharraz;1990-11-26 00:00:00Z;Danmark
+11338;Sylvester Emeka Igboun;1990-09-08 00:00:00Z;Nigeria
+11342;Martin Due;1992-11-27 00:00:00Z;Danmark
+11343;Rasmus Falk Jensen;1992-01-15 00:00:00Z;Danmark
+11344;Nicklas Helenius Jensen;1991-05-08 00:00:00Z;Danmark
+113442;;0001-01-01 00:00:00Z;
+11348;Kasper Kusk Vangsgaard;1991-11-10 00:00:00Z;Danmark
+11349;Claudemir Domingues de Souza;1988-03-27 00:00:00Z;Brasilien
+11350;Arnór Smárason;1988-09-07 00:00:00Z;Island
+11351;Kasper Jensen;1982-10-07 00:00:00Z;Danmark
+11352;Nicolai Oppen Larsen;1991-03-09 00:00:00Z;Danmark
+11353;Christian Gytkjær;1990-05-06 00:00:00Z;Danmark
+11354;Jarl André Storbæk;1978-09-21 00:00:00Z;Norge
+11356;Alioune Kébé;1984-11-24 00:00:00Z;Senegal
+11357;Tonny Brochmann Christiansen;1989-08-11 00:00:00Z;Danmark
+11359;Ayoub Ahmani Sørensen;1988-04-12 00:00:00Z;Danmark
+11360;Kasper Fauerskov Kristensen;1986-03-27 00:00:00Z;Danmark
+11361;Emil Larsen;1991-06-22 00:00:00Z;Danmark
+11362;Anders Bleg Christiansen;0001-01-01 00:00:00Z;08.06.1990                                                                         (24 &aring;r)
+11364;Nicklas Wier Højlund;1990-03-06 00:00:00Z;Danmark
+11365;Jacob Egeris Pedersen;1990-05-19 00:00:00Z;Danmark
+11367;Mathias Aaris Kragh Nielsen;1991-03-02 00:00:00Z;Danmark
+11368;Jesper Lauridsen;1991-03-27 00:00:00Z;Danmark
+11369;Rasmus Lynge Christensen;1991-08-12 00:00:00Z;Danmark
+11370;Kalilou Mohamed Traoré;1987-09-09 00:00:00Z;Mali
+11376;Daniel Høegh;1991-01-06 00:00:00Z;Danmark
+11378;Kristoffer Munksgaard;1990-01-01 00:00:00Z;Danmark
+11381;Emil Scheel;1990-03-18 00:00:00Z;Danmark
+11382;Bashkim Kadrii;1991-07-09 00:00:00Z;Danmark
+11383;Kenan Hajdarevic;1990-01-29 00:00:00Z;Bosnien-Hercegovina
+11385;Enock Kofi Adu;1990-09-14 00:00:00Z;Ghana
+11388;Jonas Henriksen;1991-03-06 00:00:00Z;Danmark
+11390;Bruno Fressato Cardoso;0001-01-01 00:00:00Z;26.09.1984                                                                         (30 &aring;r)
+11391;Uffe Manich Bech;1993-01-13 00:00:00Z;Danmark
+11393;Chérif Ousmane Sarr;1986-08-02 00:00:00Z;Senegal
+11394;Lars Fredrik Risp;1980-12-15 00:00:00Z;Sverige
+11395;Thomas Callesen;1992-07-05 00:00:00Z;Danmark
+11396;Frederik Riis Rønnow;1992-08-04 00:00:00Z;Danmark
+11398;Mathias Tauber;1984-08-24 00:00:00Z;Danmark
+11403;Mads Agesen;1983-03-17 00:00:00Z;Danmark
+11404;Dickson Nwakaeme;1986-05-21 00:00:00Z;Nigeria
+11406;Simon Skibsted;1991-11-25 00:00:00Z;Danmark
+11409;Jakob Ankersen;1990-09-22 00:00:00Z;Danmark
+11411;Mustafa Kucukovic;1986-11-05 00:00:00Z;Tyskland
+11412;André Bjerregaard;1991-09-03 00:00:00Z;Danmark
+11413;Jacob Tjørnelund;1991-12-31 00:00:00Z;Danmark
+11417;Oliver Larsen;1991-11-12 00:00:00Z;Danmark
+11418;Hannes Eder;1983-09-05 00:00:00Z;Østrig
+11419;Kayke Moreno de Andrade Rodrigues;1988-04-01 00:00:00Z;Brasilien
+11421;Clarence Goodson;1982-05-17 00:00:00Z;USA
+11422;Davidson Drobo-Ampem;1988-03-26 00:00:00Z;Tyskland
+11423;Johan Persson;1984-06-20 00:00:00Z;Sverige
+11424;Mikkel Mose Vestergaard;1992-11-22 00:00:00Z;Danmark
+11425;Jos Hooiveld;1983-04-22 00:00:00Z;Holland
+11426;Morten Nielsen;1990-02-24 00:00:00Z;Danmark
+11427;Emil Lyng;1989-08-03 00:00:00Z;Danmark
+11428;David Katz Boysen;1991-04-30 00:00:00Z;Danmark
+11429;Stefan Wessels;1979-02-28 00:00:00Z;Tyskland
+11430;George Odhiambo;1992-12-31 00:00:00Z;Kenya
+11431;Erton Fejzullahu;1988-03-13 00:00:00Z;Sverige
+11432;Tijan Jaiteh;1988-12-31 00:00:00Z;Gambia
+11433;Eyjólfur Hédinsson;1985-01-01 00:00:00Z;Island
+11434;Bernard Mendy;1981-08-20 00:00:00Z;Frankrig
+11435;Mitja Mörec;1983-02-21 00:00:00Z;Slovenien
+11436;Lucas Qvistorff Andersen;1994-09-13 00:00:00Z;Danmark
+11437;Mathias Gehrt;1992-06-07 00:00:00Z;Danmark
+11438;Jeppe Illum;1992-03-25 00:00:00Z;Danmark
+11439;Troels Kløve Hallstrøm;1990-10-23 00:00:00Z;Danmark
+11440;Søren Mussmann;1993-06-29 00:00:00Z;Danmark
+11441;Jores Okore;1992-08-11 00:00:00Z;Danmark
+11442;Alexander Ludwig;1993-06-30 00:00:00Z;Danmark
+11444;Andreas Winding;1991-02-16 00:00:00Z;Danmark
+11447;Christian Sørensen;1992-08-06 00:00:00Z;Danmark
+11453;Oğuzhan Aynaoğlu;1992-03-22 00:00:00Z;Danmark
+11455;Daniel Norouzi;1992-01-03 00:00:00Z;Danmark
+11456;Dario Dumic;1992-01-30 00:00:00Z;Danmark
+11458;Franck Semou;1992-08-25 00:00:00Z;Danmark
+11459;Ragnar Sigurdsson;1986-06-19 00:00:00Z;Island
+11460;Christian Grindheim;1983-07-17 00:00:00Z;Norge
+11462;Rasmus Nielsen;1987-07-14 00:00:00Z;Danmark
+11463;Tore Reginiussen;1986-04-10 00:00:00Z;Norge
+11464;Marvin Pourié;1991-01-08 00:00:00Z;Tyskland
+11465;Mikkel Kirkeskov;1991-09-05 00:00:00Z;Danmark
+11467;Aron Jóhannsson;1990-11-10 00:00:00Z;USA
+11468;Morten Haastrup Jensen;1989-05-05 00:00:00Z;Danmark
+11469;Kristian Geertsen;1991-02-11 00:00:00Z;Danmark
+11470;Tobias Thomsen;1992-10-19 00:00:00Z;Danmark
+11471;Lee Rochester Sørensen;1994-04-30 00:00:00Z;Danmark
+11475;Marc Rochester Sørensen;1992-12-13 00:00:00Z;Danmark
+11476;Nicolaj Ritter;1992-05-08 00:00:00Z;Danmark
+11477;Ronnie Bendtsen;1984-05-23 00:00:00Z;Danmark
+11478;Frederik Helstrup Jensen;1993-03-16 00:00:00Z;Danmark
+11480;Conor Stephen O’Brien;1988-10-20 00:00:00Z;USA
+11481;Jens Jønsson;1993-01-10 00:00:00Z;Danmark
+11483;Davit Skhirtladze;1993-03-16 00:00:00Z;Georgien
+11484;Bradford Evan Rusin;1986-09-05 00:00:00Z;USA
+11486;Jacob Schoop;1988-12-23 00:00:00Z;Danmark
+11487;Bror Blume Jensen;1992-01-22 00:00:00Z;Danmark
+11488;Pape Pate Diouf;1986-04-04 00:00:00Z;Senegal
+11489;Morten Koch Nielsen;1992-06-25 00:00:00Z;Danmark
+11493;Daniel Alexander Pedersen;1992-07-27 00:00:00Z;Danmark
+11494;Sebastien Moneron;1992-02-01 00:00:00Z;Danmark
+11495;Youssef Toutouh;1992-10-06 00:00:00Z;Danmark
+11496;Hallgrímur Jónasson;1986-05-04 00:00:00Z;Island
+11497;Sune Aagaard Kiilerich;1990-12-18 00:00:00Z;Danmark
+11498;Carsten Christensen;1986-08-28 00:00:00Z;Danmark
+11499;Nicholas Gotfredsen;1989-02-05 00:00:00Z;Danmark
+11501;Seejou King;1992-04-19 00:00:00Z;Danmark
+11503;Lukas Fernandes;1993-03-01 00:00:00Z;Danmark
+11505;Rolf Toft;1992-08-04 00:00:00Z;Danmark
+11508;Nichlas Rohde;1992-01-01 00:00:00Z;Danmark
+11509;Oke Akpoveta;1991-12-13 00:00:00Z;Nigeria
+11510;Lasse Petry Andersen;1992-09-19 00:00:00Z;Danmark
+11511;Jannich Storch;1993-05-12 00:00:00Z;Danmark
+11512;Oguzhan Özcelik;1994-04-26 00:00:00Z;Danmark
+11513;Christian Nørgaard;1994-03-10 00:00:00Z;Danmark
+11514;Yussuf Yurary Poulsen;1994-06-15 00:00:00Z;Danmark
+11515;Edafe Egbedi;1993-08-05 00:00:00Z;Nigeria
+11516;Jakob Let Haugaard;1992-05-01 00:00:00Z;Danmark
+11517;Lasse Vibe;1987-02-22 00:00:00Z;Danmark
+11518;Nicolaj Thomsen;1993-05-08 00:00:00Z;Danmark
+11520;Morten Moldskred;1980-06-13 00:00:00Z;Norge
+11521;Mustafa Abdellaoue;0001-01-01 00:00:00Z;01.08.1988                                                                         (26 &aring;r)
+11523;Ivan Runje;1990-10-09 00:00:00Z;Kroatien
+11524;Mario Ticinovic;1991-08-20 00:00:00Z;Kroatien
+11526;Kasper Larsen;1993-01-25 00:00:00Z;Danmark
+11527;Pól Jóhannus Justinussen;1989-01-13 00:00:00Z;Færøerne
+11528;Nicolaj Køhlert;1993-01-21 00:00:00Z;Danmark
+11529;Andreas Oggesen;1994-03-18 00:00:00Z;Danmark
+11530;Marco Tejmer Larsen;1993-05-15 00:00:00Z;Danmark
+11531;Mads Pedersen;1993-01-17 00:00:00Z;Danmark
+11532;Nikola Saric;1991-01-06 00:00:00Z;Danmark
+11533;Jannik Skov Hansen;1993-01-05 00:00:00Z;Danmark
+11534;Andreas Cornelius;1993-03-16 00:00:00Z;Danmark
+11535;Zoltán Szatmári;1979-05-02 00:00:00Z;Ungarn
+11536;Mads Raben;1996-02-08 00:00:00Z;Danmark
+11537;Simon Bahne Backmann;1993-04-27 00:00:00Z;Danmark
+11538;Patrick Olsen;1994-04-23 00:00:00Z;Danmark
+11540;René Joensen;1993-02-08 00:00:00Z;Færøerne
+11541;Frederik Holst;1994-09-24 00:00:00Z;Danmark
+11542;Nicolai Riise Madsen;1993-08-14 00:00:00Z;Danmark
+11543;Rasmus Thelander;1991-07-09 00:00:00Z;Danmark
+11544;Jakob Busk Jensen;1993-09-12 00:00:00Z;Danmark
+11545;Christoffer Remmer;1993-01-16 00:00:00Z;Danmark
+11546;Mohammed Diarra;1992-06-20 00:00:00Z;Frankrig
+11547;Hannes Anier;1993-01-16 00:00:00Z;Estland
+11549;Cedric N'Koum;1989-11-24 00:00:00Z;Cameroun
+11550;André Ibsen Rømer;1993-07-18 00:00:00Z;Danmark
+11551;Noah Olawale Ojuola;1993-05-12 00:00:00Z;Nigeria
+11553;Petter Andersson;1985-02-20 00:00:00Z;Sverige
+11555;Adama Tamboura;1985-05-18 00:00:00Z;Mali
+11556;Elmar Bjarnason;1987-03-04 00:00:00Z;Island
+11557;Jacob Dehn Andersen;1995-08-04 00:00:00Z;Danmark
+11558;Nicolai Brock-Madsen;1993-01-09 00:00:00Z;Danmark
+11561;Jesper Rasmussen;1992-01-04 00:00:00Z;Danmark
+11562;Steven Somers;1991-09-09 00:00:00Z;Danmark
+11563;Mikkel Agger;1992-11-01 00:00:00Z;Danmark
+11565;Emil La Cour;1991-07-19 00:00:00Z;Danmark
+11566;Frans Dhia Putros;1993-07-14 00:00:00Z;Danmark
+11568;Håkon Opdal;1982-06-11 00:00:00Z;Norge
+11570;Florian Hart;1990-05-11 00:00:00Z;Østrig
+11571;Charles Desmond Davies;1986-06-25 00:00:00Z;USA
+11572;Nicolai Jørgensen;1991-01-15 00:00:00Z;Danmark
+11574;Santiago Hernán Villafañe;1988-05-19 00:00:00Z;Argentina
+11575;Emiliano Marcondes Hansen;1995-03-09 00:00:00Z;Danmark
+11576;Søren Henriksen;1992-02-04 00:00:00Z;Danmark
+11577;Petri Pasanen;1980-09-24 00:00:00Z;Finland
+11578;Joshua John;1988-10-01 00:00:00Z;Holland
+11579;Bjarni Vidarsson;1988-03-05 00:00:00Z;Island
+15708;Morten Hansen;1993-09-04 00:00:00Z;Danmark
+15709;Igor Mavuba Vetokele;1992-03-23 00:00:00Z;Belgien
+15710;Casper Nielsen;1994-04-29 00:00:00Z;Danmark
+15712;Isaac Oliseh;1993-08-03 00:00:00Z;Nigeria
+15713;Riza Durmisi;1994-01-08 00:00:00Z;Danmark
+15714;Marcus Pedersen;1990-06-08 00:00:00Z;Norge
+15715;Magnus Lekven;1988-01-13 00:00:00Z;Norge
+15716;Kamal Issah;1992-08-30 00:00:00Z;Ghana
+15717;Pierre Boya;1984-01-16 00:00:00Z;Cameroun
+15718;Mate Vatsadze;1988-12-17 00:00:00Z;Georgien
+15719;Hallur Hansson;1992-07-08 00:00:00Z;Færøerne
+15720;Krisztián Vadócz;1985-05-30 00:00:00Z;Ungarn
+15721;Ragnvald Soma;1979-11-10 00:00:00Z;Norge
+15722;Gill Swerts;1982-09-23 00:00:00Z;Belgien
+15723;Danny Amankwaa;1994-01-30 00:00:00Z;Danmark
+15724;Kristian Lindberg;1994-02-14 00:00:00Z;Danmark
+15725;Pione Sisto;1995-02-04 00:00:00Z;Sudan
+15726;Ebere Paul Onuachu;1994-05-28 00:00:00Z;Nigeria
+15727;Andreas Maxsø;1994-03-18 00:00:00Z;Danmark
+15728;Pascal Gregor;1994-02-18 00:00:00Z;Danmark
+15765;Francisco Calvo;1992-07-08 00:00:00Z;Costa Rica
+15766;Daniel Monberg Jensen;1979-06-25 00:00:00Z;Danmark
+15767;Ricardo Bueno da Silva;1987-08-15 00:00:00Z;Brasilien
+15771;Frederik Møller;1993-07-08 00:00:00Z;Danmark
+15772;Johannes Madsen;1993-04-07 00:00:00Z;Danmark
+15773;Patrick Banggaard Jensen;1994-04-04 00:00:00Z;Danmark
+15775;Darko Bodul;1989-01-11 00:00:00Z;Østrig
+15776;David Löfquist;1986-08-06 00:00:00Z;Sverige
+15777;João Duarte Vieira Pereira;1990-05-10 00:00:00Z;Portugal
+15778;Steven Morrissey;1986-07-25 00:00:00Z;Jamaica
+15779;Daniel Flyger;1986-02-05 00:00:00Z;Danmark
+15781;Elfar Freyr Helgason;1989-07-27 00:00:00Z;Island
+15782;Lorenzo Davids;1986-09-04 00:00:00Z;Holland
+15783;Esben Petersen;1993-01-11 00:00:00Z;Danmark
+15784;Charles Kwame Takyi;1984-11-12 00:00:00Z;Ghana
+15785;Marin Skender;1979-08-12 00:00:00Z;Kroatien
+15786;Kasper Pedersen;1993-01-13 00:00:00Z;Danmark
+15787;Jakob Blåbjerg;1995-01-11 00:00:00Z;Danmark
+15788;Patrick da Silva;1994-10-23 00:00:00Z;Danmark
+15789;Marcus Solberg Mathiasen;1995-02-17 00:00:00Z;Danmark
+15790;Kristian Andersen;1994-09-01 00:00:00Z;Danmark
+15791;Rabiu Afolabi;1980-04-18 00:00:00Z;Nigeria
+15792;Nicolai Poulsen;1993-08-15 00:00:00Z;Danmark
+15793;Mikael Uhre;1994-09-30 00:00:00Z;Danmark
+15794;Gunnar Nielsen;1986-10-07 00:00:00Z;Færøerne
+15796;Lebogang Phiri;1994-11-09 00:00:00Z;Sydafrika
+15797;Nicolai Bak Johannessen;1994-05-22 00:00:00Z;Danmark
+15798;Ari Mohr Jónsson;1994-07-22 00:00:00Z;Færøerne
+15799;Mikkel Wohlgemuth;1995-06-04 00:00:00Z;Danmark
+15800;Robert Faxe Skov;1996-05-20 00:00:00Z;Danmark
+15802;Mikkel Jensen;1995-01-21 00:00:00Z;Danmark
+15803;Mads Aaquist;1994-12-31 00:00:00Z;Danmark
+15809;Mikkel Andersen;1988-12-17 00:00:00Z;Danmark
+15810;Thomas Mikkelsen;1983-08-27 00:00:00Z;Danmark
+15812;Lasse Nielsen;1987-03-03 00:00:00Z;Danmark
+15813;Jean-Claude Bozga;1984-06-01 00:00:00Z;Rumænien
+15815;Oliver Lund;1990-08-21 00:00:00Z;Danmark
+15816;Jonas Thomsen;1991-02-05 00:00:00Z;Danmark
+15818;Nikolaj Hansen;1993-03-15 00:00:00Z;Danmark
+15819;Rasmus Festersen;1986-08-26 00:00:00Z;Danmark
+15820;Marc Dal Hende;1990-11-06 00:00:00Z;Danmark
+15822;Jonas Thorsen;1990-04-19 00:00:00Z;Danmark
+15823;Andreas Hagen;1986-02-16 00:00:00Z;Norge
+15824;Patrick Nielsen;0001-01-01 00:00:00Z;14.11.1987                                                                         (27 &aring;r)
+15825;Kevin Mensah;1991-05-15 00:00:00Z;Danmark
+15826;Jeppe Grønning;1991-05-24 00:00:00Z;Danmark
+15827;Markus Gustafsson;1989-03-06 00:00:00Z;Sverige
+15828;Jeff Mensah;1992-08-10 00:00:00Z;Danmark
+15829;Lucas Jensen;1994-10-08 00:00:00Z;Danmark
+15832;Aleksandar Stankov;1991-02-19 00:00:00Z;Makedonien
+15833;Kristoffer Pallesen;1990-04-30 00:00:00Z;Danmark
+15835;Andreas Bruhn Christensen;1994-02-17 00:00:00Z;Danmark
+15836;Lukas Spalvis;1994-07-27 00:00:00Z;Litauen
+15839;Jeppe Højbjerg;1995-04-30 00:00:00Z;Danmark
+15840;Jeppe Andrup Andersen;1992-12-06 00:00:00Z;Danmark
+15842;Jakob Andreasen;1994-02-25 00:00:00Z;Danmark
+15843;Mick van Buren;1992-08-24 00:00:00Z;Holland
+15844;Casper Radza;1994-02-26 00:00:00Z;Danmark
+15845;Viktor Lundberg;1991-03-04 00:00:00Z;Sverige
+15846;Martin Hansen;1990-06-15 00:00:00Z;Danmark
+15847;Bassel Zakaria Jradi;1993-07-06 00:00:00Z;Danmark
+15848;Sonni Ragnar Nattestad;1994-08-05 00:00:00Z;Færøerne
+15850;Musefiu Olasunkanmi Ashiru;1994-06-26 00:00:00Z;Nigeria
+15851;Oliver Eyro Thychosen;1993-01-17 00:00:00Z;Danmark
+15852;Olof Mellberg;1977-09-03 00:00:00Z;Sverige
+15853;Adama Guira;1988-04-24 00:00:00Z;Burkina Faso
+15854;Michael Almebäck;1988-04-04 00:00:00Z;Sverige
+15855;Jeppe Hansen;1989-02-10 00:00:00Z;Danmark
+15856;Michal Peskovic;1982-02-08 00:00:00Z;Slovakiet
+15857;Lukas Lerager;1993-07-12 00:00:00Z;Danmark
+15858;Babajide Ogunbiyi;1986-11-03 00:00:00Z;USA
+15859;Emil Peter Jørgensen;1995-11-14 00:00:00Z;Danmark
+15860;Andrew Hjulsager;1995-01-15 00:00:00Z;Danmark
+15861;Dominic Oduro;1995-01-23 00:00:00Z;Ghana
+15862;Ari Skúlason;1987-05-14 00:00:00Z;Island
+15865;Rasmus Jönsson;1990-01-27 00:00:00Z;Sverige
+15866;Joël Omari Tshibamba;1988-09-22 00:00:00Z;DR Congo
+15867;Fanendo Adi;1990-10-10 00:00:00Z;Nigeria
+15868;Morten Beck;1994-12-06 00:00:00Z;Danmark
+15869;Jacob Barrett Laursen;1994-11-17 00:00:00Z;Danmark
+15871;Alexander Szymanowski;1988-10-13 00:00:00Z;Argentina
+15872;Jonas Gemmer;1996-01-31 00:00:00Z;Danmark
+15873;Mohammed Fellah;1989-05-24 00:00:00Z;Norge
+15874;Daniel Omoya Braaten;1982-05-25 00:00:00Z;Norge
+15875;Mushaga Bakenga;1992-08-08 00:00:00Z;Norge
+15877;Dusan Djuric;1984-09-13 00:00:00Z;Sverige
+15878;Georg Margreitter;1988-11-07 00:00:00Z;Østrig
+15879;Ferhan Hasani;1990-06-18 00:00:00Z;Makedonien
+15880;Ryan Johnson Laursen;1992-04-14 00:00:00Z;Danmark
+15881;Julián Luque Conde;1992-03-27 00:00:00Z;Spanien
+15882;Jens Rinke Kristensen;1990-04-16 00:00:00Z;Danmark
+15887;Khalid Boulahrouz;1981-12-28 00:00:00Z;Holland
+15889;Wilton Aguiar Figueiredo;1982-03-17 00:00:00Z;Brasilien
+15890;Edgar Babayan;1995-10-28 00:00:00Z;Danmark
+15891;Michele Grella;1987-01-23 00:00:00Z;USA
+15892;Hakan Redzep;1994-03-02 00:00:00Z;Danmark
+15894;Johan Lædre Bjørdal;1986-05-05 00:00:00Z;Norge
+15895;Fredrik Olof Esaias Stoor Siekkinen;1984-02-28 00:00:00Z;Sverige
+15897;Gilli Sørensen;1992-08-11 00:00:00Z;Færøerne
+15898;Azer Busuladzic;1991-11-12 00:00:00Z;Bosnien-Hercegovina
+15899;Edward Junior Ofere;1986-03-28 00:00:00Z;Nigeria
+15901;Martin Pusic;1987-10-24 00:00:00Z;Østrig
+15902;Martin Dúbravka;1989-01-15 00:00:00Z;Slovakiet
+15903;Silas Dylan Songani;1989-06-28 00:00:00Z;Zimbabwe
+15904;Rubin Rafael Okotie;1987-06-06 00:00:00Z;Østrig
+15905;Emilijus Zubas;1990-07-10 00:00:00Z;Litauen
+15906;José Ariel Núñez Portelli;1988-09-12 00:00:00Z;Paraguay
+15907;Yones Felfel;1995-11-24 00:00:00Z;Danmark
+15911;Marcus Ingvartsen;1996-01-04 00:00:00Z;Danmark
+15912;Kasper Junker;1994-03-05 00:00:00Z;Danmark
+15913;Daniel Stückler;1997-04-13 00:00:00Z;Danmark
+15914;Mikkel Desler Puggaard;1995-02-19 00:00:00Z;Danmark
+15915;Sebastian Denius Nielsen;1995-06-08 00:00:00Z;Danmark
+15916;Lasse Andersen;1995-05-24 00:00:00Z;Danmark
+15917;Anders Thomsen;1995-07-29 00:00:00Z;Danmark
+15918;Jens Martin Gammelby;1995-02-05 00:00:00Z;Danmark
+15919;Jesper Rask;1988-07-18 00:00:00Z;Danmark
+15920;Rasmus Ingeman;1983-04-04 00:00:00Z;Danmark
+15922;Mads Justesen;1982-12-31 00:00:00Z;Danmark
+15923;Rune Hastrup;1991-10-16 00:00:00Z;Danmark
+15924;Mathias Bersang Sørensen;1991-11-24 00:00:00Z;Danmark
+15926;Christoffer Østergaard;1993-05-22 00:00:00Z;Danmark
+15929;Emil Berggreen;1993-05-10 00:00:00Z;Danmark
+15930;Per Nilsson;0001-01-01 00:00:00Z;15.09.1982                                                                         (32 &aring;r)
+15931;Tom Høgli;1984-02-24 00:00:00Z;Norge
+15932;Franco Gabriel Mussis;1992-04-19 00:00:00Z;Argentina
+15933;Daniel Amartey;1994-12-21 00:00:00Z;Ghana
+15934;Steve Danny Marc De Ridder;1987-02-25 00:00:00Z;Belgien
+15935;Svenn Crone;1995-05-20 00:00:00Z;Danmark
+15937;Mathias Greve Petersen;1995-02-11 00:00:00Z;Danmark
+15938;Jonas Jensen;1985-10-25 00:00:00Z;Danmark
+15939;Eddi Almeida Gomes;1988-11-17 00:00:00Z;Danmark
+15940;Jeppe Brinch;1995-04-30 00:00:00Z;Danmark
+15942;Lennard Sowah;1992-08-23 00:00:00Z;Tyskland
+15943;Mathias Schlie;1988-01-31 00:00:00Z;Danmark
+15944;Fredrik Semb Berge;1990-02-06 00:00:00Z;Norge
+15945;Jeppe Tverskov;1993-03-12 00:00:00Z;Danmark
+15946;Tim Sparv;1987-02-20 00:00:00Z;Finland
+15947;Mathias Thrane;1993-09-04 00:00:00Z;Danmark
+15948;Nikolai Laursen;1998-02-19 00:00:00Z;Danmark
+15949;Runar Alex Runarsson;1995-02-18 00:00:00Z;Island
+15950;Ögmundur Kristinsson;1989-06-19 00:00:00Z;Island
+15951;Karl-Johan Johnsson;1990-01-28 00:00:00Z;Sverige
+15952;Mikkel Kallesøe;1997-04-20 00:00:00Z;Danmark
+15953;Bojan Golubovic;1983-08-22 00:00:00Z;Bosnien-Hercegovina
+15954;Frederik Børsting;1995-02-13 00:00:00Z;Danmark
+15955;Viktor Ahlmann Nielsen;1995-01-03 00:00:00Z;Danmark
+15956;Elbasan Rashani;1993-05-09 00:00:00Z;Norge
+15957;Jeppe Friborg Simonsen;1995-11-21 00:00:00Z;Danmark
+15958;Rezan Corlu;1997-08-07 00:00:00Z;Danmark
+15959;Mikael Ishak;1993-03-31 00:00:00Z;Sverige
+15960;Thomas Mikkelsen;1990-01-19 00:00:00Z;Danmark
+15961;David Moberg Karlsson;1994-03-20 00:00:00Z;Sverige
+15962;Mathias Hebo Rasmussen;1995-08-02 00:00:00Z;Danmark
+15963;Nicklas Mouritsen;1995-03-15 00:00:00Z;Danmark
+15964;Johannes Ritter;1995-02-15 00:00:00Z;Danmark
+15965;Adam Örn Arnarson;1995-08-27 00:00:00Z;Island
+15966;Vladimir Dvalishvili;1986-04-20 00:00:00Z;Georgien
+15967;Yobou Jean Noël Thome;1995-10-10 00:00:00Z;Elfenbenskysten
+15969;Donny Gorter;1988-06-15 00:00:00Z;Holland
+15971;Robin Söder;1991-04-01 00:00:00Z;Sverige
+15972;Marcos Ureña;1990-03-05 00:00:00Z;Costa Rica
+15973;Holmbert Aron Fridjonsson;1993-04-19 00:00:00Z;Island
+15974;Mees Junior Siers;1987-10-06 00:00:00Z;Holland
+15975;Alexander Kacaniklic;1991-08-13 00:00:00Z;Sverige
+15976;Teemu Eino Antero Pukki;1990-03-29 00:00:00Z;Finland
+15977;Kristoffer Olsson;1995-06-30 00:00:00Z;Sverige
+15978;Brandur Olsen;1995-12-19 00:00:00Z;Færøerne
+15979;Mikkel Duelund;1997-06-29 00:00:00Z;Danmark
+15981;Johan Erik Larsson;1990-05-05 00:00:00Z;Sverige
+15982;Ludwig Augustinsson;1994-04-21 00:00:00Z;Sverige
+15983;Kevin Patrick Foley;1984-11-01 00:00:00Z;Irland
+15984;Björn Sigurdarson;1991-02-26 00:00:00Z;Island
+15985;Johan Dahlin;1986-09-08 00:00:00Z;Sverige
+15986;Tobias Salquist;1995-05-18 00:00:00Z;Danmark
+15987;Andreas Blomqvist;1992-05-05 00:00:00Z;Sverige
+15988;Baldur Sigurdsson;1985-04-24 00:00:00Z;Island
+15989;Joel Allansson;1992-11-03 00:00:00Z;Sverige
+15990;Håkon Skogseid;1988-01-14 00:00:00Z;Norge
+15992;Erik Friberg;1986-02-10 00:00:00Z;Sverige
+15993;Daniel Larsson;1987-01-25 00:00:00Z;Sverige
+15994;Apostolos Vellios;1992-01-08 00:00:00Z;Grækenland
+15995;Eggert Gunnthor Jónsson;1988-08-18 00:00:00Z;Island
+15997;Gudjón Baldvinsson;1986-02-15 00:00:00Z;Island
+15998;Gudmundur Thórarinsson;1992-04-15 00:00:00Z;Island
+15999;Hans Mulder;1987-04-27 00:00:00Z;Holland
+16000;Jukka Raitala;1988-09-15 00:00:00Z;Finland
+16001;Nicklas Halse;1997-05-03 00:00:00Z;Danmark
+16003;Jens Jakob Dyhr Thomasen;1996-06-25 00:00:00Z;Danmark
+16004;Kasper Dolberg;1997-10-06 00:00:00Z;Danmark
+16005;Marcus Mathisen;1996-02-27 00:00:00Z;Danmark
+16006;Gustav Klitgaard Dahl;1996-01-21 00:00:00Z;Danmark
+16007;Frederik Christensen;1995-03-07 00:00:00Z;Danmark
+16008;Onur Bilgin;1997-04-25 00:00:00Z;Danmark
+16009;Adam Kolberg;1993-06-05 00:00:00Z;Danmark
+16010;Patrick Andersen;1994-01-03 00:00:00Z;Danmark
+16012;Daniel Royer;1990-05-22 00:00:00Z;Østrig
+16013;Benjamin Verbič;1993-11-27 00:00:00Z;Slovenien
+16016;Christian Jakobsen;0001-01-01 00:00:00Z;27.03.1993                                                                         (23 &aring;r)
+16018;Oliver Abildgaard;1996-06-10 00:00:00Z;Danmark
+16019;Jannik Pohl;1996-04-06 00:00:00Z;Danmark
+16020;Magnus Pedersen;1996-11-23 00:00:00Z;Danmark
+16021;Mohammad Mustafa Castillo Amini;1993-04-20 00:00:00Z;Australien
+16022;Jack Duncan;1993-04-19 00:00:00Z;Australien
+16023;Gökcan Kaya;1995-08-07 00:00:00Z;Danmark
+16024;Søren Andreasen;1996-03-13 00:00:00Z;Danmark
+16025;Marco Lund;1996-06-30 00:00:00Z;Danmark
+16026;Mathias Kristensen;1997-03-21 00:00:00Z;Danmark
+16027;Mohamed El Makrini;1987-07-06 00:00:00Z;Holland
+16029;Josip Elez;1994-04-25 00:00:00Z;Kroatien
+16030;Oskar Buur;1998-03-31 00:00:00Z;Danmark
+16034;Jeroen Veldmate;1988-11-08 00:00:00Z;Holland
+16035;Søren Reese;1993-07-29 00:00:00Z;Danmark
+16036;Alhaji Gero;1993-10-10 00:00:00Z;Nigeria
+16037;Serge Deblé;1989-10-01 00:00:00Z;Elfenbenskysten
+16039;Mikkel Hedegaard Christensen;1996-07-03 00:00:00Z;Danmark
+16040;Casper Olesen;1996-05-10 00:00:00Z;Danmark
+16042;Babajide David Akintola;1996-01-13 00:00:00Z;Nigeria
+16043;Rasmus Lauritsen;1996-02-27 00:00:00Z;Danmark
+16044;Patryk Wolanski;1991-08-15 00:00:00Z;Polen
+16045;Ahmed Yasin Ghani;1991-04-22 00:00:00Z;Irak
+16046;Adrián López Rodríguez;0001-01-01 00:00:00Z;25.02.1987                                                                         (28 &aring;r)
+16047;Magnus Eriksson;1990-04-08 00:00:00Z;Sverige
+16048;Alexander Nybo;1995-04-12 00:00:00Z;Danmark
+16049;Emmanuel Arnold Okwi;1992-12-25 00:00:00Z;Uganda
+16050;Federico Javier Santander Mereles;1991-06-04 00:00:00Z;Paraguay
+16051;Mayron George;1993-10-23 00:00:00Z;Costa Rica
+16052;Dino Mikanović;1994-05-07 00:00:00Z;Kroatien
+16053;Mads Pedersen;0001-01-01 00:00:00Z;01.09.1996                                                                         (19 &aring;r)
+16054;Souheib Dhaflaoui;1996-05-08 00:00:00Z;Danmark
+16055;Christian Køhler;0001-01-01 00:00:00Z;10.04.1996                                                                         (20 &aring;r)
+16056;Adnan Mohammad;1996-07-02 00:00:00Z;Danmark
+16057;Mathias Jensen;1996-01-01 00:00:00Z;Danmark
+16058;Bruno Anderson da Silva Sabino;1989-09-29 00:00:00Z;Brasilien
+16059;Awer Bul Mabil;1995-09-15 00:00:00Z;Australien
+16060;Alexander Munksgaard;1997-12-13 00:00:00Z;Danmark
+16061;Piotr Parzyszek;1993-09-08 00:00:00Z;Polen
+16062;Tanaka Chinyahara;1995-10-12 00:00:00Z;Zimbabwe
+16065;Thomas Kaminski;1992-10-23 00:00:00Z;Belgien
+16066;Ramón Rodrígues da Silva;1990-08-22 00:00:00Z;Brasilien
+16067;Mandla Masango;1989-07-18 00:00:00Z;Sydafrika
+16068;Stanislav Lobotka;1994-11-25 00:00:00Z;Slovakiet
+16069;Filip Novák;1990-06-26 00:00:00Z;Tjekkiet
+16070;Christian Bassogog;1995-10-18 00:00:00Z;Cameroun
+16071;Aleksandar Čavrić;1994-05-18 00:00:00Z;Serbien
+16072;Jung-Bin Park;1994-02-22 00:00:00Z;Sydkorea
+16073;Ante Rukavina;1986-06-18 00:00:00Z;Kroatien
+16074;Maksym Koval;1992-12-09 00:00:00Z;Ukraine
+16075;Victor Pálsson;1991-04-30 00:00:00Z;Island
+16076;Lasse Emil Nielsen;1993-11-08 00:00:00Z;Danmark
+16077;Dzhamaldin Khodzhaniiazov;1996-07-18 00:00:00Z;Rusland
+16078;Pål Alexander Kirkevold;1990-11-10 00:00:00Z;Norge
+16079;Rodolph William Austin;1985-06-01 00:00:00Z;Jamaica
+16080;Robert Kakeeto;1995-05-19 00:00:00Z;Uganda
+16081;Kees Luijckx;1986-02-11 00:00:00Z;Holland
+16082;Mads Døhr Thychosen;1997-06-27 00:00:00Z;Danmark
+16083;Jonathan Vervoort;1993-08-13 00:00:00Z;Belgien
+16084;Jonas Bager;1996-07-18 00:00:00Z;Danmark
+16085;Emre Mor;1997-07-24 00:00:00Z;Danmark
+16086;Frederik Lauenborg;1997-05-18 00:00:00Z;Danmark
+16087;Václav Kadlec;1992-05-20 00:00:00Z;Tjekkiet
+16090;Frederik Tingager;1993-02-22 00:00:00Z;Danmark
+16091;Simon Kroon;1993-06-16 00:00:00Z;Sverige
+16093;Aboubakar Keita;1997-11-05 00:00:00Z;Elfenbenskysten
+16097;Erik Johansson;1988-12-30 00:00:00Z;Sverige
+16098;Niklas Backman;1988-11-13 00:00:00Z;Sverige
+16112;Kamil Wilczek;1988-01-14 00:00:00Z;Polen
+16113;Andreas Nordvik;1987-03-18 00:00:00Z;Norge
+16114;Nikolaj Hagelskjær;1990-05-06 00:00:00Z;Danmark
+16115;Robin Olsen;1990-01-08 00:00:00Z;Sverige
+16116;Jens Dalsgaard Stage;1996-11-08 00:00:00Z;Danmark
+16117;Daniel O'Shaughnessy;1994-09-14 00:00:00Z;Finland
+16118;Collins Tanor;1998-01-04 00:00:00Z;Ghana
+16119;Godsway Donyoh;1994-10-14 00:00:00Z;Ghana
+16120;Wilfried Domoraud;1988-08-18 00:00:00Z;Frankrig
+16121;Jóan Simun Edmundsson;1991-07-26 00:00:00Z;Færøerne
+16122;Kaan Kairinen;1998-12-22 00:00:00Z;Finland
+16124;Nikolay Bodurov;1986-05-30 00:00:00Z;Bulgarien
+16126;George Fochive;1992-03-24 00:00:00Z;USA
+16128;Anders Bak Holvad;1990-06-24 00:00:00Z;Danmark
+16129;Ouwo Moussa Maazou;1988-08-25 00:00:00Z;Niger
+16136;Sten Grytebust;1989-10-25 00:00:00Z;Norge
+16137;Andreas Skovgaard;1997-03-27 00:00:00Z;Danmark
+16139;Rasmus Nissen Kristensen;1997-07-11 00:00:00Z;Danmark
+16141;Julian Kristoffersen;1997-05-10 00:00:00Z;Norge
+16142;Mark Brink Christensen;1998-03-15 00:00:00Z;Danmark
+16143;Emil Damgaard;1998-08-20 00:00:00Z;Danmark
+16144;Michael Zacho;1996-11-11 00:00:00Z;Danmark
+16145;Yao Kouassi Dieudonne;1997-02-14 00:00:00Z;Elfenbenskysten
+16147;Morten Rokkedal Kristensen;1997-10-10 00:00:00Z;Danmark
+16148;Marco Harboe Ramkilde;1998-05-09 00:00:00Z;Danmark
+16149;Andrija Pavlovic;1993-11-16 00:00:00Z;Serbien
+16150;Markus Holgersson;1985-04-16 00:00:00Z;Sverige
+16151;Magnus Christensen;1997-08-20 00:00:00Z;Danmark
+16152;Rasmus Thellufsen Pedersen;1997-01-09 00:00:00Z;Danmark
+16153;Marco Meilinger;1991-08-08 00:00:00Z;Østrig
+16154;Joakim Mæhle Pedersen;1997-05-20 00:00:00Z;Danmark
+16156;Sebastian Grønning Andersen;1997-02-03 00:00:00Z;Danmark
+16158;Jan Gregus;1991-01-29 00:00:00Z;Slovakiet
+16159;Benedikt Röcker;1989-11-19 00:00:00Z;Tyskland
+16160;Gustaf Nilsson;1997-05-23 00:00:00Z;Sverige
+16161;Aleksandar Jovanovic;1992-12-06 00:00:00Z;Serbien
+16162;Frederik Due;1992-07-18 00:00:00Z;Danmark
+16163;Kasper Enghardt;1992-05-27 00:00:00Z;Danmark
+16164;Marko Mitrovic;1992-06-27 00:00:00Z;Sverige
+16165;Andreas Larsen;1990-05-22 00:00:00Z;Danmark
+16167;Jesper Christjansen;1987-12-29 00:00:00Z;Danmark
+16168;Lasse Fosgaard;1986-09-06 00:00:00Z;Danmark
+16170;Mads Nordam;1995-05-14 00:00:00Z;Danmark
+16171;Jeppe Kjær;1985-11-06 00:00:00Z;Danmark
+16172;Casper Højer Nielsen;1994-11-20 00:00:00Z;Danmark
+16173;Mikkel Rygaard;1990-12-25 00:00:00Z;Danmark
+16174;Frederik Gytkjær;1993-03-16 00:00:00Z;Danmark
+16177;Kristoffer Larsen;1992-01-19 00:00:00Z;Norge
+16178;Andreas Albers;1990-03-23 00:00:00Z;Danmark
+16179;Ulrik Flo;1998-10-06 00:00:00Z;Norge
+16180;Sammy Skytte;1997-02-20 00:00:00Z;Danmark
+16182;Nicklas Dannevang;1990-09-11 00:00:00Z;Danmark
+16183;Mikkel Jespersen;1991-06-11 00:00:00Z;Danmark
+16184;Joseph Mensah;1994-09-29 00:00:00Z;Ghana
+16185;Bubacarr Sanneh;1994-11-14 00:00:00Z;Gambia
+16186;Delphin Tshiembe;1991-12-07 00:00:00Z;DR Congo
+16187;Mads Bech Sørensen;1999-01-07 00:00:00Z;Danmark
+16188;Marcus Bobjerg;1998-01-26 00:00:00Z;Danmark
+16189;Kjartan Henry Finnbogason;1986-07-09 00:00:00Z;Island
+16190;Matthias Maak;1992-05-12 00:00:00Z;Østrig
+16191;Markus Halsti;1984-03-19 00:00:00Z;Finland
+16193;Rasmus Nicolaisen;1997-03-16 00:00:00Z;Danmark
+16194;Kristian Dirks Riis;1997-02-17 00:00:00Z;Danmark
+16195;Viktor Tranberg;1997-02-26 00:00:00Z;Danmark
+16197;Hjörtur Hermannsson;1995-02-08 00:00:00Z;Island
+16199;Jens Odgaard;1999-03-31 00:00:00Z;Danmark
+16200;Joni Kauko;1990-07-12 00:00:00Z;Finland
+16201;Hannes Halldórsson;1984-04-27 00:00:00Z;Island
+16202;Mathias Rasmussen;1997-11-25 00:00:00Z;Norge
+16203;Hany Mukhtar;1995-03-21 00:00:00Z;Tyskland
+16205;Anthony J. Soares;1988-11-28 00:00:00Z;USA
+16206;Divine Naah;1996-04-20 00:00:00Z;Ghana
+16209;Benjamin Hvidt;2000-03-12 00:00:00Z;Danmark
+16210;Marcus Mølvadgaard;1999-08-03 00:00:00Z;Danmark
+16211;Jeppe Okkels;1999-07-27 00:00:00Z;Danmark
+16212;Indy Groothuizen;1996-07-22 00:00:00Z;Holland
+16213;Jakob Johansson;1998-08-06 00:00:00Z;Danmark
+16214;Abdul Mumin;1998-06-06 00:00:00Z;Ghana
+16215;Nana Welbeck;1994-11-24 00:00:00Z;Ghana
+16216;Sakari Mattila;1989-07-14 00:00:00Z;Finland
+16217;Rafael van der Vaart;1983-02-11 00:00:00Z;Holland
+16218;Edison Michael Flores Peralta;1994-05-14 00:00:00Z;Peru
+16220;Benjamin Christian Lund;1997-03-12 00:00:00Z;Danmark
+16221;Ibrahim Moro;1993-11-10 00:00:00Z;Ghana
+16222;Ernest Asante;1988-11-06 00:00:00Z;Ghana
+16223;Nicolai Boilesen;1992-02-16 00:00:00Z;Danmark
+16224;Karlo Bartolec;1995-04-20 00:00:00Z;Kroatien
+16225;Björn Daniel Sverrisson;1990-05-29 00:00:00Z;Island
+16226;Jan Kliment;1993-09-01 00:00:00Z;Tjekkiet
+16227;Philip Zinckernagel;1994-12-16 00:00:00Z;Danmark
+16228;Gustav Mendonca Wikheim;1993-03-18 00:00:00Z;Norge
+16229;Mustapha Bundu;1997-02-28 00:00:00Z;Sierra Leone
+16230;Doneil Jor-Dee Ashley Henry;1993-04-20 00:00:00Z;Canada
+16231;Christopher Ikonomidis;1995-05-04 00:00:00Z;Australien
+16232;Kim Ojo;1988-12-02 00:00:00Z;Nigeria
+16236;Victor Nelsson;1998-10-14 00:00:00Z;Danmark
+16238;Mads Roerslev;1999-06-24 00:00:00Z;Danmark
+16240;Mikael Anderson;1998-07-01 00:00:00Z;Danmark
+16241;Andreas Poulsen;1999-10-13 00:00:00Z;Danmark
+16242;Jacob Lungi Sørensen;1998-03-03 00:00:00Z;Danmark
+16243;Daniel Anyembe;1998-07-22 00:00:00Z;Danmark
+16244;Nimo Gribenco;1997-01-23 00:00:00Z;Danmark
+16245;Mads Emil Madsen;1998-01-14 00:00:00Z;Danmark
+16246;Paulus Arajuuri;1988-06-15 00:00:00Z;Finland
+16247;Uros Matic;1990-05-23 00:00:00Z;Serbien
+16249;Lucas Ravn-Haren;1997-10-13 00:00:00Z;Danmark
+16250;Walter Viitala;1992-01-09 00:00:00Z;Finland
+16251;Konstantinos Tsimikas;1996-05-12 00:00:00Z;Grækenland
+16252;Mikkel Mena Qvist;1993-04-22 00:00:00Z;Danmark
+16253;Otar Kakabadze;1995-06-27 00:00:00Z;Georgien
+16254;Adambathia Larsen Kwarasey;1987-12-12 00:00:00Z;Ghana
+16256;Steve Clark;1986-04-14 00:00:00Z;USA
+16258;Georgios Katsikas;1990-06-14 00:00:00Z;Grækenland
+16260;Sam Lundholm;1994-07-01 00:00:00Z;Sverige
+16261;Jakub Sylvestr;1989-02-02 00:00:00Z;Slovakiet
+16262;Gregor Sikosek;1994-02-13 00:00:00Z;Slovenien
+16263;Budu Zivzivadze;1994-03-10 00:00:00Z;Georgien
+16264;Emmanuel Oti Essigba;1996-09-24 00:00:00Z;Ghana
+16265;Nicholas Marfelt;1994-09-15 00:00:00Z;Danmark
+16266;Zsolt Kalmár;1995-06-09 00:00:00Z;Ungarn
+16268;Erik Moberg;1986-07-05 00:00:00Z;Sverige
+16269;Rubio Rubin;1996-03-01 00:00:00Z;USA
+16270;Nikola Djurdjic;1986-04-01 00:00:00Z;Serbien
+16271;Alexander Jakobsen;1994-03-18 00:00:00Z;Danmark
+16272;Lasha Parunashvili;1993-02-14 00:00:00Z;Georgien
+16273;Patrik Carlgren;1992-01-08 00:00:00Z;Sverige
+16275;Carlo Holse;1999-06-02 00:00:00Z;Danmark
+16277;Thomas Juel-Nielsen;1990-06-18 00:00:00Z;Danmark
+16278;Oliver Kjærgaard;1998-07-11 00:00:00Z;Danmark
+16279;Anders Dreyer;1998-05-02 00:00:00Z;Danmark
+16280;Martin Frese;1998-01-04 00:00:00Z;Danmark
+16281;Nicolai Dohn;1998-08-18 00:00:00Z;Danmark
+16282;Gustav Ølsted Marcussen;1998-06-12 00:00:00Z;Danmark
+16284;Magnus Warming;2000-06-08 00:00:00Z;Danmark
+16285;Christian Enemark;1999-01-20 00:00:00Z;Danmark
+16286;Rasmus Hjorth Vinderslev;1997-08-12 00:00:00Z;Danmark
+16287;Mikkel Bruhn;1990-10-16 00:00:00Z;Danmark
+16290;Frederik Bay;1997-08-06 00:00:00Z;Danmark
+16291;Andreas Holm Jensen;1988-12-07 00:00:00Z;Danmark
+16292;Martin Fisch;1993-01-26 00:00:00Z;Danmark
+16293;Morten Hegaard;1997-10-21 00:00:00Z;Danmark
+16294;Mathias Johannsen;1992-04-27 00:00:00Z;Danmark
+16295;Mikkel Fossum Basse;1996-08-31 00:00:00Z;Danmark
+16296;Anders Holst;1992-07-25 00:00:00Z;Danmark
+16300;Pierre Larsen;1994-07-16 00:00:00Z;Danmark
+16301;Lucas Ohlander;1993-02-19 00:00:00Z;Sverige
+16303;Tobias Christensen;1995-01-04 00:00:00Z;Danmark
+16305;André Riel;1989-10-21 00:00:00Z;Danmark
+16307;Nicolas Mortensen;1994-04-26 00:00:00Z;Danmark
+16308;Yaw Amankwah;1988-07-07 00:00:00Z;Norge
+16309;Vito Hammershøy-Mistrati;1992-06-15 00:00:00Z;Danmark
+16310;Mikkel Mejlstrup Pedersen;1996-01-08 00:00:00Z;Danmark
+16311;Björn Kopplin;1989-01-07 00:00:00Z;Tyskland
+16314;Rasmus Minor Petersen;1988-09-13 00:00:00Z;Danmark
+16317;Zsolt Korcsmár;1989-01-09 00:00:00Z;Ungarn
+16318;Alexander Sørloth;1995-12-05 00:00:00Z;Norge
+16319;Bozhidar Kraev;1997-06-23 00:00:00Z;Bulgarien
+16320;Michael Lüftner;1994-03-14 00:00:00Z;Tjekkiet
+16321;Pieros Sotiriou;1993-01-13 00:00:00Z;Cypern
+16324;Stefan Gartenmann;1997-02-02 00:00:00Z;Danmark
+16325;Sebastian Mielitz;1989-07-18 00:00:00Z;Tyskland
+16336;Mathias Haarup;1996-02-10 00:00:00Z;Danmark
+16337;Saba Lobjanidze;1994-12-18 00:00:00Z;Georgien
+16338;Besar Halimi;1994-12-12 00:00:00Z;Kosovo
+16340;Daisuke Sato;1994-09-20 00:00:00Z;Filippinerne
+16342;Julius Eskesen;1999-03-16 00:00:00Z;Danmark
+16343;Filip Lesniak;1996-05-14 00:00:00Z;Slovakiet
+16344;Perry Kitchen;1992-02-29 00:00:00Z;USA
+16346;Ayo Simon Okosun;1993-07-21 00:00:00Z;Tyskland
+16347;Tobias Sana;1989-07-11 00:00:00Z;Sverige
+16348;Jesse Joronen;1993-03-21 00:00:00Z;Finland
+16355;Tobias Arndal;1997-09-01 00:00:00Z;Danmark
+16356;Magnus Kaastrup;2000-12-28 00:00:00Z;Danmark
+16357;William Tchuameni;1996-12-25 00:00:00Z;Cameroun
+16359;Magnus Kofod Andersen;1999-05-10 00:00:00Z;Danmark
+16360;Lasse Vigen Christensen;1994-08-15 00:00:00Z;Danmark
+16361;Anthony Jung;1991-11-03 00:00:00Z;Tyskland
+16362;Simon Tibbling;1994-09-07 00:00:00Z;Sverige
+16363;Andreas Skov Olsen;1999-12-29 00:00:00Z;Danmark
+16364;Yann Del Pino Rolim;1995-03-15 00:00:00Z;Brasilien
+16365;Bjarke Jacobsen;1993-08-21 00:00:00Z;Danmark
+16366;Ibrahima N'Diaye;1994-02-01 00:00:00Z;Senegal
+16367;Alexander Ammitzbøll;1999-02-17 00:00:00Z;Danmark
+16368;Jacob Rinne;1993-06-20 00:00:00Z;Sverige
+16369;Benjamin Tiedemann Hansen;1994-02-07 00:00:00Z;Danmark
+16370;Pavol Safranko;1994-11-16 00:00:00Z;Slovakiet
+16372;Emmanuel Sabbi;1997-12-24 00:00:00Z;USA
+16373;Magnus Mattsson;1999-02-25 00:00:00Z;Danmark
+16374;Denis Vavro;1996-04-10 00:00:00Z;Slovakiet
+16375;José Carlos Gonçalves Rodrigues;0001-01-01 00:00:00Z;31.08.1988                                                                         (29 &aring;r)
+16380;Vladimir Rodić;1993-09-07 00:00:00Z;Montenegro
+16382;Oliver Drost;1995-11-04 00:00:00Z;Danmark
+9001;Frank Andersen;1961-11-19 00:00:00Z;Danmark
+9006;Troels Bech;1966-07-29 00:00:00Z;Danmark
+9011;Morten Bruun;1965-06-28 00:00:00Z;Danmark
+9024;Dan Eggen;1970-01-13 00:00:00Z;Norge
+9054;Carsten Vagn Jensen;1963-02-28 00:00:00Z;Danmark
+9056;Henrik Jensen;1959-10-25 00:00:00Z;Danmark
+9068;Mogens Krogh;1963-10-31 00:00:00Z;Danmark
+9069;Allan Hjortdal Kuhn;1968-03-02 00:00:00Z;Danmark
+9070;Hasse Hjortdal Kuhn;1964-08-01 00:00:00Z;Danmark
+9097;Lars Christian Olsen;1961-02-02 00:00:00Z;Danmark
+9100;Michael Pedersen;1963-06-11 00:00:00Z;Danmark
+9108;Erik Sanvad Rasmussen;1960-12-24 00:00:00Z;Danmark
+9110;Peter Rasmussen;1967-05-16 00:00:00Z;Danmark
+9142;Hans Christiaens;1964-01-12 00:00:00Z;Belgien
+9170;Kent Nielsen;1961-12-28 00:00:00Z;Danmark
+9252;Stephen Lowe;1963-03-13 00:00:00Z;England
+9265;Michael Schjønberg;1967-01-19 00:00:00Z;Danmark
+9277;Jonas Dal Andersen;1976-07-07 00:00:00Z;Danmark
+9471;Patrick Mtiliga;1981-01-28 00:00:00Z;Danmark
+9575;Andreas Sørensen;1984-08-01 00:00:00Z;Danmark
+9576;Thomas Sørensen;1984-08-01 00:00:00Z;Danmark
+9577;Martin Thomsen;1982-08-06 00:00:00Z;Danmark
+9600;Thorbjørn Holst Rasmussen;1987-03-21 00:00:00Z;Danmark
+9601;Jonas Nielsen;1987-07-14 00:00:00Z;Danmark
